@@ -25,9 +25,19 @@ body{
 }
 .wright{
 	background: #183;
+	transition: background .25s ease;
+}
+.wright:hover{
+	background: #4c7;
+	transition: background .25s ease;
 }
 .wrong{
 	background: #f50;
+	transition: background .25s ease;
+}
+.wrong:hover{
+	background: #f94;
+	transition: background .25s ease;
 }
 .snaps{
 	float: left;
