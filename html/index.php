@@ -10,8 +10,8 @@
 		<button href="index.php?move=wrong">Wrong</button>
 	</div>
 	<div class="snaps">
-		<p>prédiliction</p>
-		<p>تفضيل</p>
+		<p class="french">prédiliction</p>
+		<p class="arabic">تفضيل</p>
 	</div>
 </body>
 </html>
