@@ -6,8 +6,8 @@
 </head>
 <body>
 	<div class="buttons">
-		<button>Right</button>
-		<button>Wrong</button>
+		<button href="index.php?move=right">Right</button>
+		<button href="index.php?move=wrong">Wrong</button>
 	</div>
 	<div class="snaps">
 		<p>prédiliction</p>
