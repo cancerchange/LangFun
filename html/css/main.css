@@ -1,8 +1,16 @@
 body{
 	width: 960px;
 	margin: auto;
-	margin-top: 50px;	
+	margin-top: 150px;	
 	font-family: Trebuchet Ms;
+}
+header{
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 80px;
+	width: 100%;
+	background: #38f;
 }
 .buttons{
 	float: left;
