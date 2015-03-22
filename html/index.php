@@ -1,19 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>LangFun</title>
-	<meta charset="UTF-8">
-	<link rel="stylesheet" href="css/main.css">
-</head>
-<body>
-	<header></header>
-	<div class="buttons">
-		<button href="index.php?move=right" class="wright">Right</button>
-		<button href="index.php?move=wrong" class="wrong">Wrong</button>
-	</div>
-	<div class="snaps">
-		<p class="french">prédiliction</p>
-		<p class="arabic">تفضيل</p>
-	</div>
-</body>
-</html>
+<?php 
+	require('../helpers/functions.php');
+	render("header");
+	render("footer",array('french'=>'prédiliction','arabic'=>'تفضيل'));
+ ?>
