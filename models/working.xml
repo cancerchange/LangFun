@@ -4,16 +4,8 @@
 		<french>je</french>
 		<arabic>انا</arabic>
 	</word>
-	<word id="2">
-		<french>feu</french>
-		<arabic>النار</arabic>
-	</word>
 	<word id="3">
 		<french>eau</french>
 		<arabic>ماء</arabic>
-	</word>
-	<word id="4">
-		<french>mur</french>
-		<arabic>حائط</arabic>
 	</word>
 </words>
