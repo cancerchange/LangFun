@@ -8,7 +8,7 @@
 <body>
 	<header></header>
 	<div class="buttons">
-		<button href="index.php?move=right" class="wright">Right</button>
-		<button href="index.php?move=wrong" class="wrong">Wrong</button>
+		<a href="index.php?move=right" class="wright">Right</a>
+		<a href="index.php?move=wrong" class="wrong">Wrong</a>
 	</div>
 	<div class="snaps">
