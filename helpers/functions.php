@@ -25,7 +25,7 @@
 	}
 	function getId($word,$path){
 		$xml = simplexml_load_file("../models/{$path}.xml");
-		
+		$get = $xml->xpath('/words/word');
 	}
 	function update($id){
 

@@ -1,12 +1,10 @@
 <words>
 	<word id="2">
-		<french>feu</french>
-		<arabic>النار</arabic>
-		<expertise>1</expertise>
+		<french>abat-jour</french>
+		<arabic>واقي شمسي</arabic>
 	</word>
 	<word id="4">
-		<french>mur</french>
-		<arabic>حائط</arabic>
-		<expertise>4</expertise>
+		<french>abeille</french>
+		<arabic>نحلة</arabic>
 	</word>
 </words>
