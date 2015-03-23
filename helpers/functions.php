@@ -23,7 +23,13 @@
 		return $pull;
 	}
 	function checkAndMove(){
-
+		$current = simplexml_load_file('../models/current.xml');
+		$expertise=$current->xpath("/words/word/expertise");
+		foreach ($expertise as $exprt) {
+			if ($exprt==4) {
+				echo "got ya";
+			}
+		}
 	}
 	function checkAndAdd(){
 
