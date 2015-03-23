@@ -23,7 +23,14 @@
 		
 		return $pull;
 	}
-	
+	function getId($word,$path){
+		$xml = simplexml_load_file("../models/{$path}.xml");
+		
+	}
+	function update($id){
+
+	}
+
 	function render($template,$data = array()){
 		$path="../views/".$template.".php";
 		extract($data);
