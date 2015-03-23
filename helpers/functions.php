@@ -12,6 +12,7 @@
 		
 		$count=$current->count();
 		$rand=rand(0,$count-1);
+		
 		$get = $get_random_word->xpath("/words/word");
 		$choose=$get[$rand]->attributes();
 		
@@ -27,11 +28,11 @@
 		$expertise=$current->xpath("/words/word/expertise");
 		foreach ($expertise as $exprt) {
 			if ($exprt==4) {
-				echo "got ya";
+				
 			}
 		}
 	}
-	function checkAndAdd(){
+	function addFromPool(){
 
 	}
 	function render($template,$data = array()){

@@ -1,6 +1,8 @@
 <?php 
 	require('../helpers/functions.php');
-	render("header");
+	
+	$pull=pull();
+	render("header",$pull);
 	checkAndMove();
-	render("footer",pull());
+	render("footer",$pull);
  ?>
