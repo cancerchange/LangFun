@@ -7,9 +7,14 @@
 	}
 	function pull(){
 		# gets an element out of the current directory and puts it as an argument to render(footer)
-		$current =simplexml_load_file('../models/current.xml');
-		$french=$current->xpath("/words/word/french");
-		$arabic=$current->xpath("/words/word/arabic");
+		$current = simplexml_load_file('../models/current.xml');
+		$count=$current->count();
+		$get_random_word= new SimpleXMLIterator($current->asXML());
+		$rand=rand(0,$count-1);
+		$get = $get_random_word->xpath("/words/word");
+		$choose=$get[$rand]->attributes();
+		$french=$current->xpath("/words/word[@id={$choose}]/french");
+		$arabic=$current->xpath("/words/word[@id={$choose}]/arabic");
 		$pull=array('french'=>$french['0'],'arabic'=>$arabic['0']);
 		return $pull;
 	}
