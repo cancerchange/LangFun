@@ -2,7 +2,7 @@
     {
         "id": 0,
         "french": "le",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 1,
@@ -177,7 +177,7 @@
     {
         "id": 35,
         "french": "lui",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 36,
@@ -197,7 +197,7 @@
     {
         "id": 39,
         "french": "pouvoir",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 40,
@@ -237,7 +237,7 @@
     {
         "id": 47,
         "french": "où",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 48,
@@ -362,7 +362,7 @@
     {
         "id": 72,
         "french": "tout",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 73,
@@ -482,7 +482,7 @@
     {
         "id": 96,
         "french": "savoir",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 97,
@@ -572,7 +572,7 @@
     {
         "id": 114,
         "french": "fois",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 115,
@@ -837,7 +837,7 @@
     {
         "id": 167,
         "french": "comprendre",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 168,
@@ -882,7 +882,7 @@
     {
         "id": 176,
         "french": "trop",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 177,
@@ -912,7 +912,7 @@
     {
         "id": 182,
         "french": "déjà",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 183,
@@ -1457,7 +1457,7 @@
     {
         "id": 291,
         "french": "doute",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 292,
@@ -1882,7 +1882,7 @@
     {
         "id": 376,
         "french": "façon",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 377,
@@ -3357,7 +3357,7 @@
     {
         "id": 671,
         "french": "cinquante",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 672,
@@ -3447,7 +3447,7 @@
     {
         "id": 689,
         "french": "puis",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 690,
@@ -4252,7 +4252,7 @@
     {
         "id": 850,
         "french": "remarquer",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 851,
@@ -4392,7 +4392,7 @@
     {
         "id": 878,
         "french": "taille",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 879,
@@ -4897,7 +4897,7 @@
     {
         "id": 979,
         "french": "jaune",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 980,
@@ -4972,7 +4972,7 @@
     {
         "id": 994,
         "french": "voile",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 995,
@@ -5267,7 +5267,7 @@
     {
         "id": 1053,
         "french": "hésiter",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 1054,
@@ -5302,7 +5302,7 @@
     {
         "id": 1060,
         "french": "davantage",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 1061,
@@ -6327,7 +6327,7 @@
     {
         "id": 1265,
         "french": "chance",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 1266,
@@ -7027,7 +7027,7 @@
     {
         "id": 1405,
         "french": "nerveux",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 1406,
@@ -7262,7 +7262,7 @@
     {
         "id": 1452,
         "french": "perdu",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 1453,
@@ -7317,7 +7317,7 @@
     {
         "id": 1463,
         "french": "illusion",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 1464,

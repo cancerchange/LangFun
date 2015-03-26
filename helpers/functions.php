@@ -59,15 +59,19 @@
 	}
 	function pull(){
 		$pool = json_decode(openPool('original_mess'),true);
-		$choice = rand(0,9);
+		$count = fopen('../models/original_mess.json','r');
+		$i=-1;
+		while (fgets($count)) {
+			$i++;
+		}
+		fclose($count);
+		$choice = rand(0,($i-2)/5-1);
 		return $pool[$choice];
 		
 	}
 	
-	function getIds($pool){
-		$stream = openPool($pool);
+	function getStatus(){
 		
-		$ids['0']=json_decode($strem,true);
 	}
 	
 
