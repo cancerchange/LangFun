@@ -64,4 +64,7 @@
 		extract($data);
 		require($path);
 	}
+	function ititialize(){
+
+	}
  ?>
