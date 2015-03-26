@@ -2,8 +2,20 @@
 	function checkAnswer(){
 		# checks answer
 	}
-	function increase(){
-		
+	function update(){
+			$json_verifie = json_decode(openPool('original_mess'),true);
+			$json = [];
+			$i=0;
+			foreach ($json_verifie as $key => $value) {
+				if ($json_verifie[$key]['expertise'] != 5){
+					$json[$i]=$json_verifie[$key];
+					$i++;
+				}	
+			}
+			$poor = fopen('../models/original_mess.json','w');
+			fwrite($poor,json_encode($json,JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+			fclose($poor);
+
 			if (isset($_GET['word'])){
 				$json_ori = json_decode(openPool('original_mess'),true);
 				$json_new = [];
@@ -47,7 +59,7 @@
 	}
 	function pull(){
 		$pool = json_decode(openPool('original_mess'),true);
-		$choice = rand(0,19);
+		$choice = rand(0,9);
 		return $pool[$choice];
 		
 	}

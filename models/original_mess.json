@@ -1,5998 +1,7497 @@
 [
     {
         "id": 0,
-        "french": "le"
+        "french": "le",
+        "expertise": 0
     },
     {
         "id": 1,
-        "french": "de"
+        "french": "de",
+        "expertise": 0
     },
     {
         "id": 2,
-        "french": "un"
+        "french": "un",
+        "expertise": 0
     },
     {
         "id": 3,
-        "french": "être"
+        "french": "être",
+        "expertise": 0
     },
     {
         "id": 4,
-        "french": "et"
+        "french": "et",
+        "expertise": 0
     },
     {
         "id": 5,
-        "french": "à"
+        "french": "à",
+        "expertise": 0
     },
     {
         "id": 6,
-        "french": "il"
+        "french": "il",
+        "expertise": 0
     },
     {
         "id": 7,
-        "french": "avoir"
+        "french": "avoir",
+        "expertise": 0
     },
     {
         "id": 8,
-        "french": "ne"
+        "french": "ne",
+        "expertise": 0
     },
     {
         "id": 9,
-        "french": "je"
+        "french": "je",
+        "expertise": 0
     },
     {
         "id": 10,
-        "french": "son"
+        "french": "son",
+        "expertise": 0
     },
     {
         "id": 11,
-        "french": "que"
+        "french": "que",
+        "expertise": 0
     },
     {
         "id": 12,
-        "french": "se"
+        "french": "se",
+        "expertise": 0
     },
     {
         "id": 13,
-        "french": "qui"
+        "french": "qui",
+        "expertise": 0
     },
     {
         "id": 14,
-        "french": "ce"
+        "french": "ce",
+        "expertise": 0
     },
     {
         "id": 15,
-        "french": "dans"
+        "french": "dans",
+        "expertise": 0
     },
     {
         "id": 16,
-        "french": "en"
+        "french": "en",
+        "expertise": 0
     },
     {
         "id": 17,
-        "french": "du"
+        "french": "du",
+        "expertise": 0
     },
     {
         "id": 18,
-        "french": "elle"
+        "french": "elle",
+        "expertise": 0
     },
     {
         "id": 19,
         "french": "au",
+        "expertise": 0
     },
     {
         "id": 20,
-        "french": "de"
+        "french": "de",
+        "expertise": 0
     },
     {
         "id": 21,
-        "french": "ce"
+        "french": "ce",
+        "expertise": 0
     },
     {
         "id": 22,
-        "french": "le"
+        "french": "le",
+        "expertise": 0
     },
     {
         "id": 23,
-        "french": "pour"
+        "french": "pour",
+        "expertise": 0
     },
     {
         "id": 24,
-        "french": "pas"
+        "french": "pas",
+        "expertise": 0
     },
     {
         "id": 25,
-        "french": "que"
+        "french": "que",
+        "expertise": 0
     },
     {
         "id": 26,
-        "french": "vous"
+        "french": "vous",
+        "expertise": 0
     },
     {
         "id": 27,
-        "french": "par"
+        "french": "par",
+        "expertise": 0
     },
     {
         "id": 28,
-        "french": "sur"
+        "french": "sur",
+        "expertise": 0
     },
     {
         "id": 29,
-        "french": "faire"
+        "french": "faire",
+        "expertise": 0
     },
     {
         "id": 30,
-        "french": "plus"
+        "french": "plus",
+        "expertise": 0
     },
     {
         "id": 31,
-        "french": "dire"
+        "french": "dire",
+        "expertise": 0
     },
     {
         "id": 32,
-        "french": "me"
+        "french": "me",
+        "expertise": 0
     },
     {
         "id": 33,
-        "french": "on"
+        "french": "on",
+        "expertise": 0
     },
     {
         "id": 34,
-        "french": "mon"
+        "french": "mon",
+        "expertise": 0
     },
     {
         "id": 35,
-        "french": "lui"
+        "french": "lui",
+        "expertise": 0
     },
     {
         "id": 36,
-        "french": "nous"
+        "french": "nous",
+        "expertise": 0
     },
     {
         "id": 37,
-        "french": "comme"
+        "french": "comme",
+        "expertise": 0
     },
     {
         "id": 38,
-        "french": "mais"
+        "french": "mais",
+        "expertise": 0
     },
     {
         "id": 39,
-        "french": "pouvoir"
+        "french": "pouvoir",
+        "expertise": 0
     },
     {
         "id": 40,
-        "french": "avec"
+        "french": "avec",
+        "expertise": 0
     },
     {
         "id": 41,
-        "french": "tout"
+        "french": "tout",
+        "expertise": 0
     },
     {
         "id": 42,
-        "french": "y"
+        "french": "y",
+        "expertise": 0
     },
     {
         "id": 43,
-        "french": "aller"
+        "french": "aller",
+        "expertise": 0
     },
     {
         "id": 44,
-        "french": "voir"
+        "french": "voir",
+        "expertise": 0
     },
     {
         "id": 45,
-        "french": "en"
+        "french": "en",
+        "expertise": 0
     },
     {
         "id": 46,
-        "french": "bien"
+        "french": "bien",
+        "expertise": 0
     },
     {
         "id": 47,
-        "french": "où"
+        "french": "où",
+        "expertise": 0
     },
     {
         "id": 48,
-        "french": "sans"
+        "french": "sans",
+        "expertise": 0
     },
     {
         "id": 49,
-        "french": "tu"
+        "french": "tu",
+        "expertise": 0
     },
     {
         "id": 50,
-        "french": "ou"
+        "french": "ou",
+        "expertise": 0
     },
     {
         "id": 51,
-        "french": "leur"
+        "french": "leur",
+        "expertise": 0
     },
     {
         "id": 52,
-        "french": "homme"
+        "french": "homme",
+        "expertise": 0
     },
     {
         "id": 53,
-        "french": "si"
+        "french": "si",
+        "expertise": 0
     },
     {
         "id": 54,
-        "french": "deux"
+        "french": "deux",
+        "expertise": 0
     },
     {
         "id": 55,
-        "french": "mari"
+        "french": "mari",
+        "expertise": 0
     },
     {
         "id": 56,
-        "french": "moi"
+        "french": "moi",
+        "expertise": 0
     },
     {
         "id": 57,
-        "french": "vouloir"
+        "french": "vouloir",
+        "expertise": 0
     },
     {
         "id": 58,
-        "french": "te"
+        "french": "te",
+        "expertise": 0
     },
     {
         "id": 59,
-        "french": "femme"
+        "french": "femme",
+        "expertise": 0
     },
     {
         "id": 60,
-        "french": "venir"
+        "french": "venir",
+        "expertise": 0
     },
     {
         "id": 61,
-        "french": "quand"
+        "french": "quand",
+        "expertise": 0
     },
     {
         "id": 62,
-        "french": "grand"
+        "french": "grand",
+        "expertise": 0
     },
     {
         "id": 63,
-        "french": "celui"
+        "french": "celui",
+        "expertise": 0
     },
     {
         "id": 64,
-        "french": "si"
+        "french": "si",
+        "expertise": 0
     },
     {
         "id": 65,
-        "french": "notre"
+        "french": "notre",
+        "expertise": 0
     },
     {
         "id": 66,
-        "french": "devoir"
+        "french": "devoir",
+        "expertise": 0
     },
     {
         "id": 67,
-        "french": "là"
+        "french": "là",
+        "expertise": 0
     },
     {
         "id": 68,
-        "french": "jour"
+        "french": "jour",
+        "expertise": 0
     },
     {
         "id": 69,
-        "french": "prendre"
+        "french": "prendre",
+        "expertise": 0
     },
     {
         "id": 70,
-        "french": "même"
+        "french": "même",
+        "expertise": 0
     },
     {
         "id": 71,
-        "french": "votre"
+        "french": "votre",
+        "expertise": 0
     },
     {
         "id": 72,
-        "french": "tout"
+        "french": "tout",
+        "expertise": 0
     },
     {
         "id": 73,
-        "french": "rien"
+        "french": "rien",
+        "expertise": 0
     },
     {
         "id": 74,
-        "french": "petit"
+        "french": "petit",
+        "expertise": 0
     },
     {
         "id": 75,
-        "french": "encore"
+        "french": "encore",
+        "expertise": 0
     },
     {
         "id": 76,
-        "french": "aussi"
+        "french": "aussi",
+        "expertise": 0
     },
     {
         "id": 77,
-        "french": "quelque"
+        "french": "quelque",
+        "expertise": 0
     },
     {
         "id": 78,
-        "french": "dont"
+        "french": "dont",
+        "expertise": 0
     },
     {
         "id": 79,
-        "french": "tout"
+        "french": "tout",
+        "expertise": 0
     },
     {
         "id": 80,
-        "french": "mer"
+        "french": "mer",
+        "expertise": 0
     },
     {
         "id": 81,
-        "french": "trouver"
+        "french": "trouver",
+        "expertise": 0
     },
     {
         "id": 82,
-        "french": "donner"
+        "french": "donner",
+        "expertise": 0
     },
     {
         "id": 83,
-        "french": "temps"
+        "french": "temps",
+        "expertise": 0
     },
     {
         "id": 84,
-        "french": "ça"
+        "french": "ça",
+        "expertise": 0
     },
     {
         "id": 85,
-        "french": "peu"
+        "french": "peu",
+        "expertise": 0
     },
     {
         "id": 86,
-        "french": "même"
+        "french": "même",
+        "expertise": 0
     },
     {
         "id": 87,
-        "french": "falloir"
+        "french": "falloir",
+        "expertise": 0
     },
     {
         "id": 88,
-        "french": "sous"
+        "french": "sous",
+        "expertise": 0
     },
     {
         "id": 89,
-        "french": "parler"
+        "french": "parler",
+        "expertise": 0
     },
     {
         "id": 90,
-        "french": "alors"
+        "french": "alors",
+        "expertise": 0
     },
     {
         "id": 91,
-        "french": "main"
+        "french": "main",
+        "expertise": 0
     },
     {
         "id": 92,
-        "french": "chose"
+        "french": "chose",
+        "expertise": 0
     },
     {
         "id": 93,
-        "french": "ton"
+        "french": "ton",
+        "expertise": 0
     },
     {
         "id": 94,
-        "french": "mettre"
+        "french": "mettre",
+        "expertise": 0
     },
     {
         "id": 95,
-        "french": "vie"
+        "french": "vie",
+        "expertise": 0
     },
     {
         "id": 96,
-        "french": "savoir"
+        "french": "savoir",
+        "expertise": 0
     },
     {
         "id": 97,
-        "french": "yeux"
+        "french": "yeux",
+        "expertise": 0
     },
     {
         "id": 98,
-        "french": "passer"
+        "french": "passer",
+        "expertise": 0
     },
     {
         "id": 99,
-        "french": "autre"
+        "french": "autre",
+        "expertise": 0
     },
     {
         "id": 100,
-        "french": "après"
+        "french": "après",
+        "expertise": 0
     },
     {
         "id": 101,
-        "french": "regarder"
+        "french": "regarder",
+        "expertise": 0
     },
     {
         "id": 102,
-        "french": "toujours"
+        "french": "toujours",
+        "expertise": 0
     },
     {
         "id": 103,
-        "french": "puis"
+        "french": "puis",
+        "expertise": 0
     },
     {
         "id": 104,
-        "french": "jamais"
+        "french": "jamais",
+        "expertise": 0
     },
     {
         "id": 105,
-        "french": "cela"
+        "french": "cela",
+        "expertise": 0
     },
     {
         "id": 106,
-        "french": "aimer"
+        "french": "aimer",
+        "expertise": 0
     },
     {
         "id": 107,
-        "french": "non"
+        "french": "non",
+        "expertise": 0
     },
     {
         "id": 108,
-        "french": "heure"
+        "french": "heure",
+        "expertise": 0
     },
     {
         "id": 109,
-        "french": "croire"
+        "french": "croire",
+        "expertise": 0
     },
     {
         "id": 110,
-        "french": "cent"
+        "french": "cent",
+        "expertise": 0
     },
     {
         "id": 111,
-        "french": "monde"
+        "french": "monde",
+        "expertise": 0
     },
     {
         "id": 112,
-        "french": "donc"
+        "french": "donc",
+        "expertise": 0
     },
     {
         "id": 113,
-        "french": "enfant"
+        "french": "enfant",
+        "expertise": 0
     },
     {
         "id": 114,
-        "french": "fois"
+        "french": "fois",
+        "expertise": 0
     },
     {
         "id": 115,
-        "french": "seul"
+        "french": "seul",
+        "expertise": 0
     },
     {
         "id": 116,
-        "french": "autre"
+        "french": "autre",
+        "expertise": 0
     },
     {
         "id": 117,
-        "french": "entre"
+        "french": "entre",
+        "expertise": 0
     },
     {
         "id": 118,
-        "french": "vers"
+        "french": "vers",
+        "expertise": 0
     },
     {
         "id": 119,
-        "french": "chez"
+        "french": "chez",
+        "expertise": 0
     },
     {
         "id": 120,
-        "french": "demander"
+        "french": "demander",
+        "expertise": 0
     },
     {
         "id": 121,
-        "french": "jeune"
+        "french": "jeune",
+        "expertise": 0
     },
     {
         "id": 122,
-        "french": "jusque"
+        "french": "jusque",
+        "expertise": 0
     },
     {
         "id": 123,
-        "french": "très"
+        "french": "très",
+        "expertise": 0
     },
     {
         "id": 124,
-        "french": "moment"
+        "french": "moment",
+        "expertise": 0
     },
     {
         "id": 125,
-        "french": "rester"
+        "french": "rester",
+        "expertise": 0
     },
     {
         "id": 126,
-        "french": "répondre"
+        "french": "répondre",
+        "expertise": 0
     },
     {
         "id": 127,
-        "french": "tout"
+        "french": "tout",
+        "expertise": 0
     },
     {
         "id": 128,
-        "french": "tête"
+        "french": "tête",
+        "expertise": 0
     },
     {
         "id": 129,
-        "french": "père"
+        "french": "père",
+        "expertise": 0
     },
     {
         "id": 130,
-        "french": "fille"
+        "french": "fille",
+        "expertise": 0
     },
     {
         "id": 131,
-        "french": "mille"
+        "french": "mille",
+        "expertise": 0
     },
     {
         "id": 132,
-        "french": "premier"
+        "french": "premier",
+        "expertise": 0
     },
     {
         "id": 133,
-        "french": "car"
+        "french": "car",
+        "expertise": 0
     },
     {
         "id": 134,
-        "french": "entendre"
+        "french": "entendre",
+        "expertise": 0
     },
     {
         "id": 135,
-        "french": "ni"
+        "french": "ni",
+        "expertise": 0
     },
     {
         "id": 136,
-        "french": "bon"
+        "french": "bon",
+        "expertise": 0
     },
     {
         "id": 137,
-        "french": "trois"
+        "french": "trois",
+        "expertise": 0
     },
     {
         "id": 138,
-        "french": "coeur"
+        "french": "coeur",
+        "expertise": 0
     },
     {
         "id": 139,
-        "french": "ainsi"
+        "french": "ainsi",
+        "expertise": 0
     },
     {
         "id": 140,
-        "french": "an"
+        "french": "an",
+        "expertise": 0
     },
     {
         "id": 141,
-        "french": "quatre"
+        "french": "quatre",
+        "expertise": 0
     },
     {
         "id": 142,
-        "french": "un"
+        "french": "un",
+        "expertise": 0
     },
     {
         "id": 143,
-        "french": "terre"
+        "french": "terre",
+        "expertise": 0
     },
     {
         "id": 144,
-        "french": "contre"
+        "french": "contre",
+        "expertise": 0
     },
     {
         "id": 145,
-        "french": "dieu"
+        "french": "dieu",
+        "expertise": 0
     },
     {
         "id": 146,
-        "french": "monsieur"
+        "french": "monsieur",
+        "expertise": 0
     },
     {
         "id": 147,
-        "french": "voix"
+        "french": "voix",
+        "expertise": 0
     },
     {
         "id": 148,
-        "french": "penser"
+        "french": "penser",
+        "expertise": 0
     },
     {
         "id": 149,
-        "french": "quel"
+        "french": "quel",
+        "expertise": 0
     },
     {
         "id": 150,
-        "french": "arriver"
+        "french": "arriver",
+        "expertise": 0
     },
     {
         "id": 151,
-        "french": "maison"
+        "french": "maison",
+        "expertise": 0
     },
     {
         "id": 152,
-        "french": "devant"
+        "french": "devant",
+        "expertise": 0
     },
     {
         "id": 153,
-        "french": "coup"
+        "french": "coup",
+        "expertise": 0
     },
     {
         "id": 154,
-        "french": "beau"
+        "french": "beau",
+        "expertise": 0
     },
     {
         "id": 155,
-        "french": "connaître"
+        "french": "connaître",
+        "expertise": 0
     },
     {
         "id": 156,
-        "french": "devenir"
+        "french": "devenir",
+        "expertise": 0
     },
     {
         "id": 157,
-        "french": "air"
+        "french": "air",
+        "expertise": 0
     },
     {
         "id": 158,
-        "french": "mot"
+        "french": "mot",
+        "expertise": 0
     },
     {
         "id": 159,
-        "french": "nuit"
+        "french": "nuit",
+        "expertise": 0
     },
     {
         "id": 160,
-        "french": "sentir"
+        "french": "sentir",
+        "expertise": 0
     },
     {
         "id": 161,
-        "french": "eau"
+        "french": "eau",
+        "expertise": 0
     },
     {
         "id": 162,
-        "french": "vieux"
+        "french": "vieux",
+        "expertise": 0
     },
     {
         "id": 163,
-        "french": "sembler"
+        "french": "sembler",
+        "expertise": 0
     },
     {
         "id": 164,
-        "french": "moins"
+        "french": "moins",
+        "expertise": 0
     },
     {
         "id": 165,
-        "french": "tenir"
+        "french": "tenir",
+        "expertise": 0
     },
     {
         "id": 166,
-        "french": "ici"
+        "french": "ici",
+        "expertise": 0
     },
     {
         "id": 167,
-        "french": "comprendre"
+        "french": "comprendre",
+        "expertise": 0
     },
     {
         "id": 168,
-        "french": "oui"
+        "french": "oui",
+        "expertise": 0
     },
     {
         "id": 169,
-        "french": "rendre"
+        "french": "rendre",
+        "expertise": 0
     },
     {
         "id": 170,
-        "french": "toi"
+        "french": "toi",
+        "expertise": 0
     },
     {
         "id": 171,
-        "french": "vingt"
+        "french": "vingt",
+        "expertise": 0
     },
     {
         "id": 172,
-        "french": "depuis"
+        "french": "depuis",
+        "expertise": 0
     },
     {
         "id": 173,
-        "french": "attendre"
+        "french": "attendre",
+        "expertise": 0
     },
     {
         "id": 174,
-        "french": "sortir"
+        "french": "sortir",
+        "expertise": 0
     },
     {
         "id": 175,
-        "french": "ami"
+        "french": "ami",
+        "expertise": 0
     },
     {
         "id": 176,
-        "french": "trop"
+        "french": "trop",
+        "expertise": 0
     },
     {
         "id": 177,
-        "french": "porte"
+        "french": "porte",
+        "expertise": 0
     },
     {
         "id": 178,
-        "french": "lequel"
+        "french": "lequel",
+        "expertise": 0
     },
     {
         "id": 179,
-        "french": "chaque"
+        "french": "chaque",
+        "expertise": 0
     },
     {
         "id": 180,
-        "french": "amour"
+        "french": "amour",
+        "expertise": 0
     },
     {
         "id": 181,
-        "french": "pendant"
+        "french": "pendant",
+        "expertise": 0
     },
     {
         "id": 182,
-        "french": "déjà"
+        "french": "déjà",
+        "expertise": 0
     },
     {
         "id": 183,
-        "french": "pied"
+        "french": "pied",
+        "expertise": 0
     },
     {
         "id": 184,
-        "french": "tant"
+        "french": "tant",
+        "expertise": 0
     },
     {
         "id": 185,
-        "french": "gens"
+        "french": "gens",
+        "expertise": 0
     },
     {
         "id": 186,
-        "french": "parce que"
+        "french": "parce que",
+        "expertise": 0
     },
     {
         "id": 187,
-        "french": "nom"
+        "french": "nom",
+        "expertise": 0
     },
     {
         "id": 188,
-        "french": "vivre"
+        "french": "vivre",
+        "expertise": 0
     },
     {
         "id": 189,
-        "french": "reprendre"
+        "french": "reprendre",
+        "expertise": 0
     },
     {
         "id": 190,
-        "french": "entrer"
+        "french": "entrer",
+        "expertise": 0
     },
     {
         "id": 191,
-        "french": "porter"
+        "french": "porter",
+        "expertise": 0
     },
     {
         "id": 192,
-        "french": "pays"
+        "french": "pays",
+        "expertise": 0
     },
     {
         "id": 193,
-        "french": "ciel"
+        "french": "ciel",
+        "expertise": 0
     },
     {
         "id": 194,
-        "french": "avant"
+        "french": "avant",
+        "expertise": 0
     },
     {
         "id": 195,
-        "french": "frère"
+        "french": "frère",
+        "expertise": 0
     },
     {
         "id": 196,
-        "french": "regard"
+        "french": "regard",
+        "expertise": 0
     },
     {
         "id": 197,
-        "french": "chercher"
+        "french": "chercher",
+        "expertise": 0
     },
     {
         "id": 198,
-        "french": "âme"
+        "french": "âme",
+        "expertise": 0
     },
     {
         "id": 199,
-        "french": "côté"
+        "french": "côté",
+        "expertise": 0
     },
     {
         "id": 200,
-        "french": "mort"
+        "french": "mort",
+        "expertise": 0
     },
     {
         "id": 201,
-        "french": "revenir"
+        "french": "revenir",
+        "expertise": 0
     },
     {
         "id": 202,
-        "french": "noir"
+        "french": "noir",
+        "expertise": 0
     },
     {
         "id": 203,
-        "french": "maintenant"
+        "french": "maintenant",
+        "expertise": 0
     },
     {
         "id": 204,
-        "french": "nouveau"
+        "french": "nouveau",
+        "expertise": 0
     },
     {
         "id": 205,
-        "french": "ville"
+        "french": "ville",
+        "expertise": 0
     },
     {
         "id": 206,
-        "french": "rue"
+        "french": "rue",
+        "expertise": 0
     },
     {
         "id": 207,
-        "french": "enfin"
+        "french": "enfin",
+        "expertise": 0
     },
     {
         "id": 208,
-        "french": "appeler"
+        "french": "appeler",
+        "expertise": 0
     },
     {
         "id": 209,
-        "french": "soir"
+        "french": "soir",
+        "expertise": 0
     },
     {
         "id": 210,
-        "french": "chambre"
+        "french": "chambre",
+        "expertise": 0
     },
     {
         "id": 211,
-        "french": "mourir"
+        "french": "mourir",
+        "expertise": 0
     },
     {
         "id": 212,
-        "french": "pas"
+        "french": "pas",
+        "expertise": 0
     },
     {
         "id": 213,
-        "french": "partir"
+        "french": "partir",
+        "expertise": 0
     },
     {
         "id": 214,
-        "french": "cinq"
+        "french": "cinq",
+        "expertise": 0
     },
     {
         "id": 215,
-        "french": "esprit"
+        "french": "esprit",
+        "expertise": 0
     },
     {
         "id": 216,
-        "french": "soleil"
+        "french": "soleil",
+        "expertise": 0
     },
     {
         "id": 217,
-        "french": "dernier"
+        "french": "dernier",
+        "expertise": 0
     },
     {
         "id": 218,
-        "french": "jeter"
+        "french": "jeter",
+        "expertise": 0
     },
     {
         "id": 219,
-        "french": "dix"
+        "french": "dix",
+        "expertise": 0
     },
     {
         "id": 220,
-        "french": "roi"
+        "french": "roi",
+        "expertise": 0
     },
     {
         "id": 221,
-        "french": "état"
+        "french": "état",
+        "expertise": 0
     },
     {
         "id": 222,
-        "french": "corps"
+        "french": "corps",
+        "expertise": 0
     },
     {
         "id": 223,
-        "french": "beaucoup"
+        "french": "beaucoup",
+        "expertise": 0
     },
     {
         "id": 224,
-        "french": "suivre"
+        "french": "suivre",
+        "expertise": 0
     },
     {
         "id": 225,
-        "french": "bras"
+        "french": "bras",
+        "expertise": 0
     },
     {
         "id": 226,
-        "french": "écrire"
+        "french": "écrire",
+        "expertise": 0
     },
     {
         "id": 227,
-        "french": "blanc"
+        "french": "blanc",
+        "expertise": 0
     },
     {
         "id": 228,
-        "french": "montrer"
+        "french": "montrer",
+        "expertise": 0
     },
     {
         "id": 229,
-        "french": "tomber"
+        "french": "tomber",
+        "expertise": 0
     },
     {
         "id": 230,
-        "french": "place"
+        "french": "place",
+        "expertise": 0
     },
     {
         "id": 231,
-        "french": "ouvrir"
+        "french": "ouvrir",
+        "expertise": 0
     },
     {
         "id": 232,
-        "french": "ah"
+        "french": "ah",
+        "expertise": 0
     },
     {
         "id": 233,
-        "french": "parti"
+        "french": "parti",
+        "expertise": 0
     },
     {
         "id": 234,
-        "french": "assez"
+        "french": "assez",
+        "expertise": 0
     },
     {
         "id": 235,
-        "french": "leur"
+        "french": "leur",
+        "expertise": 0
     },
     {
         "id": 236,
-        "french": "cher"
+        "french": "cher",
+        "expertise": 0
     },
     {
         "id": 237,
-        "french": "voilà"
+        "french": "voilà",
+        "expertise": 0
     },
     {
         "id": 238,
-        "french": "année"
+        "french": "année",
+        "expertise": 0
     },
     {
         "id": 239,
-        "french": "loin"
+        "french": "loin",
+        "expertise": 0
     },
     {
         "id": 240,
-        "french": "point"
+        "french": "point",
+        "expertise": 0
     },
     {
         "id": 241,
-        "french": "visage"
+        "french": "visage",
+        "expertise": 0
     },
     {
         "id": 242,
-        "french": "bruit"
+        "french": "bruit",
+        "expertise": 0
     },
     {
         "id": 243,
-        "french": "lettre"
+        "french": "lettre",
+        "expertise": 0
     },
     {
         "id": 244,
-        "french": "franc"
+        "french": "franc",
+        "expertise": 0
     },
     {
         "id": 245,
-        "french": "fond"
+        "french": "fond",
+        "expertise": 0
     },
     {
         "id": 246,
-        "french": "force"
+        "french": "force",
+        "expertise": 0
     },
     {
         "id": 247,
-        "french": "arrêter"
+        "french": "arrêter",
+        "expertise": 0
     },
     {
         "id": 248,
-        "french": "perdre"
+        "french": "perdre",
+        "expertise": 0
     },
     {
         "id": 249,
-        "french": "commencer"
+        "french": "commencer",
+        "expertise": 0
     },
     {
         "id": 250,
-        "french": "paraître"
+        "french": "paraître",
+        "expertise": 0
     },
     {
         "id": 251,
-        "french": "aucun"
+        "french": "aucun",
+        "expertise": 0
     },
     {
         "id": 252,
-        "french": "marcher"
+        "french": "marcher",
+        "expertise": 0
     },
     {
         "id": 253,
-        "french": "milieu"
+        "french": "milieu",
+        "expertise": 0
     },
     {
         "id": 254,
-        "french": "saint"
+        "french": "saint",
+        "expertise": 0
     },
     {
         "id": 255,
-        "french": "idée"
+        "french": "idée",
+        "expertise": 0
     },
     {
         "id": 256,
-        "french": "presque"
+        "french": "presque",
+        "expertise": 0
     },
     {
         "id": 257,
-        "french": "ailleurs"
+        "french": "ailleurs",
+        "expertise": 0
     },
     {
         "id": 258,
-        "french": "travail"
+        "french": "travail",
+        "expertise": 0
     },
     {
         "id": 259,
-        "french": "lumière"
+        "french": "lumière",
+        "expertise": 0
     },
     {
         "id": 260,
-        "french": "long"
+        "french": "long",
+        "expertise": 0
     },
     {
         "id": 261,
-        "french": "seulement"
+        "french": "seulement",
+        "expertise": 0
     },
     {
         "id": 262,
-        "french": "mois"
+        "french": "mois",
+        "expertise": 0
     },
     {
         "id": 263,
-        "french": "fils"
+        "french": "fils",
+        "expertise": 0
     },
     {
         "id": 264,
-        "french": "neuf"
+        "french": "neuf",
+        "expertise": 0
     },
     {
         "id": 265,
-        "french": "tel"
+        "french": "tel",
+        "expertise": 0
     },
     {
         "id": 266,
-        "french": "lever"
+        "french": "lever",
+        "expertise": 0
     },
     {
         "id": 267,
-        "french": "raison"
+        "french": "raison",
+        "expertise": 0
     },
     {
         "id": 268,
-        "french": "effet"
+        "french": "effet",
+        "expertise": 0
     },
     {
         "id": 269,
-        "french": "gouvernement"
+        "french": "gouvernement",
+        "expertise": 0
     },
     {
         "id": 270,
-        "french": "permettre"
+        "french": "permettre",
+        "expertise": 0
     },
     {
         "id": 271,
-        "french": "pauvre"
+        "french": "pauvre",
+        "expertise": 0
     },
     {
         "id": 272,
-        "french": "asseoir"
+        "french": "asseoir",
+        "expertise": 0
     },
     {
         "id": 273,
-        "french": "point"
+        "french": "point",
+        "expertise": 0
     },
     {
         "id": 274,
-        "french": "plein"
+        "french": "plein",
+        "expertise": 0
     },
     {
         "id": 275,
-        "french": "personne"
+        "french": "personne",
+        "expertise": 0
     },
     {
         "id": 276,
-        "french": "VRAI"
+        "french": "VRAI",
+        "expertise": 0
     },
     {
         "id": 277,
-        "french": "peuple"
+        "french": "peuple",
+        "expertise": 0
     },
     {
         "id": 278,
-        "french": "fait"
+        "french": "fait",
+        "expertise": 0
     },
     {
         "id": 279,
-        "french": "parole"
+        "french": "parole",
+        "expertise": 0
     },
     {
         "id": 280,
-        "french": "guerre"
+        "french": "guerre",
+        "expertise": 0
     },
     {
         "id": 281,
-        "french": "toute"
+        "french": "toute",
+        "expertise": 0
     },
     {
         "id": 282,
-        "french": "écouter"
+        "french": "écouter",
+        "expertise": 0
     },
     {
         "id": 283,
-        "french": "pensée"
+        "french": "pensée",
+        "expertise": 0
     },
     {
         "id": 284,
-        "french": "affaire"
+        "french": "affaire",
+        "expertise": 0
     },
     {
         "id": 285,
-        "french": "quoi"
+        "french": "quoi",
+        "expertise": 0
     },
     {
         "id": 286,
-        "french": "matin"
+        "french": "matin",
+        "expertise": 0
     },
     {
         "id": 287,
-        "french": "pierre"
+        "french": "pierre",
+        "expertise": 0
     },
     {
         "id": 288,
-        "french": "monter"
+        "french": "monter",
+        "expertise": 0
     },
     {
         "id": 289,
-        "french": "bas"
+        "french": "bas",
+        "expertise": 0
     },
     {
         "id": 290,
-        "french": "vent"
+        "french": "vent",
+        "expertise": 0
     },
     {
         "id": 291,
-        "french": "doute"
+        "french": "doute",
+        "expertise": 0
     },
     {
         "id": 292,
-        "french": "front"
+        "french": "front",
+        "expertise": 0
     },
     {
         "id": 293,
-        "french": "ombre"
+        "french": "ombre",
+        "expertise": 0
     },
     {
         "id": 294,
-        "french": "part"
+        "french": "part",
+        "expertise": 0
     },
     {
         "id": 295,
-        "french": "maître"
+        "french": "maître",
+        "expertise": 0
     },
     {
         "id": 296,
-        "french": "aujourd'hui"
+        "french": "aujourd'hui",
+        "expertise": 0
     },
     {
         "id": 297,
-        "french": "besoin"
+        "french": "besoin",
+        "expertise": 0
     },
     {
         "id": 298,
-        "french": "question"
+        "french": "question",
+        "expertise": 0
     },
     {
         "id": 299,
-        "french": "apercevoir"
+        "french": "apercevoir",
+        "expertise": 0
     },
     {
         "id": 300,
-        "french": "recevoir"
+        "french": "recevoir",
+        "expertise": 0
     },
     {
         "id": 301,
-        "french": "mieux"
+        "french": "mieux",
+        "expertise": 0
     },
     {
         "id": 302,
-        "french": "peine"
+        "french": "peine",
+        "expertise": 0
     },
     {
         "id": 303,
-        "french": "tour"
+        "french": "tour",
+        "expertise": 0
     },
     {
         "id": 304,
-        "french": "servir"
+        "french": "servir",
+        "expertise": 0
     },
     {
         "id": 305,
-        "french": "oh"
+        "french": "oh",
+        "expertise": 0
     },
     {
         "id": 306,
-        "french": "autour"
+        "french": "autour",
+        "expertise": 0
     },
     {
         "id": 307,
-        "french": "près"
+        "french": "près",
+        "expertise": 0
     },
     {
         "id": 308,
-        "french": "finir"
+        "french": "finir",
+        "expertise": 0
     },
     {
         "id": 309,
-        "french": "famille"
+        "french": "famille",
+        "expertise": 0
     },
     {
         "id": 310,
-        "french": "pourquoi"
+        "french": "pourquoi",
+        "expertise": 0
     },
     {
         "id": 311,
-        "french": "souvent"
+        "french": "souvent",
+        "expertise": 0
     },
     {
         "id": 312,
-        "french": "rire"
+        "french": "rire",
+        "expertise": 0
     },
     {
         "id": 313,
-        "french": "dessus"
+        "french": "dessus",
+        "expertise": 0
     },
     {
         "id": 314,
-        "french": "madame"
+        "french": "madame",
+        "expertise": 0
     },
     {
         "id": 315,
-        "french": "sorte"
+        "french": "sorte",
+        "expertise": 0
     },
     {
         "id": 316,
-        "french": "figure"
+        "french": "figure",
+        "expertise": 0
     },
     {
         "id": 317,
-        "french": "droit"
+        "french": "droit",
+        "expertise": 0
     },
     {
         "id": 318,
-        "french": "peur"
+        "french": "peur",
+        "expertise": 0
     },
     {
         "id": 319,
-        "french": "bout"
+        "french": "bout",
+        "expertise": 0
     },
     {
         "id": 320,
-        "french": "lieu"
+        "french": "lieu",
+        "expertise": 0
     },
     {
         "id": 321,
-        "french": "silence"
+        "french": "silence",
+        "expertise": 0
     },
     {
         "id": 322,
-        "french": "gros"
+        "french": "gros",
+        "expertise": 0
     },
     {
         "id": 323,
-        "french": "chef"
+        "french": "chef",
+        "expertise": 0
     },
     {
         "id": 324,
-        "french": "eh"
+        "french": "eh",
+        "expertise": 0
     },
     {
         "id": 325,
-        "french": "six"
+        "french": "six",
+        "expertise": 0
     },
     {
         "id": 326,
-        "french": "bois"
+        "french": "bois",
+        "expertise": 0
     },
     {
         "id": 327,
-        "french": "mari"
+        "french": "mari",
+        "expertise": 0
     },
     {
         "id": 328,
-        "french": "histoire"
+        "french": "histoire",
+        "expertise": 0
     },
     {
         "id": 329,
-        "french": "crier"
+        "french": "crier",
+        "expertise": 0
     },
     {
         "id": 330,
-        "french": "jouer"
+        "french": "jouer",
+        "expertise": 0
     },
     {
         "id": 331,
-        "french": "feu"
+        "french": "feu",
+        "expertise": 0
     },
     {
         "id": 332,
-        "french": "tourner"
+        "french": "tourner",
+        "expertise": 0
     },
     {
         "id": 333,
-        "french": "doux"
+        "french": "doux",
+        "expertise": 0
     },
     {
         "id": 334,
-        "french": "longtemps"
+        "french": "longtemps",
+        "expertise": 0
     },
     {
         "id": 335,
-        "french": "fort"
+        "french": "fort",
+        "expertise": 0
     },
     {
         "id": 336,
-        "french": "heureux"
+        "french": "heureux",
+        "expertise": 0
     },
     {
         "id": 337,
-        "french": "comme"
+        "french": "comme",
+        "expertise": 0
     },
     {
         "id": 338,
-        "french": "garder"
+        "french": "garder",
+        "expertise": 0
     },
     {
         "id": 339,
-        "french": "partie"
+        "french": "partie",
+        "expertise": 0
     },
     {
         "id": 340,
-        "french": "face"
+        "french": "face",
+        "expertise": 0
     },
     {
         "id": 341,
-        "french": "mouvement"
+        "french": "mouvement",
+        "expertise": 0
     },
     {
         "id": 342,
-        "french": "fin"
+        "french": "fin",
+        "expertise": 0
     },
     {
         "id": 343,
-        "french": "reconnaître"
+        "french": "reconnaître",
+        "expertise": 0
     },
     {
         "id": 344,
-        "french": "quitter"
+        "french": "quitter",
+        "expertise": 0
     },
     {
         "id": 345,
-        "french": "personne"
+        "french": "personne",
+        "expertise": 0
     },
     {
         "id": 346,
-        "french": "comment"
+        "french": "comment",
+        "expertise": 0
     },
     {
         "id": 347,
-        "french": "route"
+        "french": "route",
+        "expertise": 0
     },
     {
         "id": 348,
-        "french": "dès"
+        "french": "dès",
+        "expertise": 0
     },
     {
         "id": 349,
-        "french": "manger"
+        "french": "manger",
+        "expertise": 0
     },
     {
         "id": 350,
-        "french": "livre"
+        "french": "livre",
+        "expertise": 0
     },
     {
         "id": 351,
-        "french": "arbre"
+        "french": "arbre",
+        "expertise": 0
     },
     {
         "id": 352,
-        "french": "courir"
+        "french": "courir",
+        "expertise": 0
     },
     {
         "id": 353,
-        "french": "cas"
+        "french": "cas",
+        "expertise": 0
     },
     {
         "id": 354,
-        "french": "huit"
+        "french": "huit",
+        "expertise": 0
     },
     {
         "id": 355,
-        "french": "lorsque"
+        "french": "lorsque",
+        "expertise": 0
     },
     {
         "id": 356,
-        "french": "mur"
+        "french": "mur",
+        "expertise": 0
     },
     {
         "id": 357,
-        "french": "ordre"
+        "french": "ordre",
+        "expertise": 0
     },
     {
         "id": 358,
-        "french": "continuer"
+        "french": "continuer",
+        "expertise": 0
     },
     {
         "id": 359,
-        "french": "bonheur"
+        "french": "bonheur",
+        "expertise": 0
     },
     {
         "id": 360,
-        "french": "oublier"
+        "french": "oublier",
+        "expertise": 0
     },
     {
         "id": 361,
-        "french": "descendre"
+        "french": "descendre",
+        "expertise": 0
     },
     {
         "id": 362,
-        "french": "haut"
+        "french": "haut",
+        "expertise": 0
     },
     {
         "id": 363,
-        "french": "intérêt"
+        "french": "intérêt",
+        "expertise": 0
     },
     {
         "id": 364,
-        "french": "cacher"
+        "french": "cacher",
+        "expertise": 0
     },
     {
         "id": 365,
-        "french": "l'un"
+        "french": "l'un",
+        "expertise": 0
     },
     {
         "id": 366,
-        "french": "chacun"
+        "french": "chacun",
+        "expertise": 0
     },
     {
         "id": 367,
-        "french": "profond"
+        "french": "profond",
+        "expertise": 0
     },
     {
         "id": 368,
-        "french": "argent"
+        "french": "argent",
+        "expertise": 0
     },
     {
         "id": 369,
-        "french": "cause"
+        "french": "cause",
+        "expertise": 0
     },
     {
         "id": 370,
-        "french": "poser"
+        "french": "poser",
+        "expertise": 0
     },
     {
         "id": 371,
-        "french": "autant"
+        "french": "autant",
+        "expertise": 0
     },
     {
         "id": 372,
-        "french": "est"
+        "french": "est",
+        "expertise": 0
     },
     {
         "id": 373,
-        "french": "travers"
+        "french": "travers",
+        "expertise": 0
     },
     {
         "id": 374,
-        "french": "grand"
+        "french": "grand",
+        "expertise": 0
     },
     {
         "id": 375,
-        "french": "instant"
+        "french": "instant",
+        "expertise": 0
     },
     {
         "id": 376,
-        "french": "façon"
+        "french": "façon",
+        "expertise": 0
     },
     {
         "id": 377,
-        "french": "d'abord"
+        "french": "d'abord",
+        "expertise": 0
     },
     {
         "id": 378,
-        "french": "oeil"
+        "french": "oeil",
+        "expertise": 0
     },
     {
         "id": 379,
-        "french": "tirer"
+        "french": "tirer",
+        "expertise": 0
     },
     {
         "id": 380,
-        "french": "forme"
+        "french": "forme",
+        "expertise": 0
     },
     {
         "id": 381,
-        "french": "présenter"
+        "french": "présenter",
+        "expertise": 0
     },
     {
         "id": 382,
-        "french": "ajouter"
+        "french": "ajouter",
+        "expertise": 0
     },
     {
         "id": 383,
-        "french": "agir"
+        "french": "agir",
+        "expertise": 0
     },
     {
         "id": 384,
-        "french": "retrouver"
+        "french": "retrouver",
+        "expertise": 0
     },
     {
         "id": 385,
-        "french": "chemin"
+        "french": "chemin",
+        "expertise": 0
     },
     {
         "id": 386,
-        "french": "cheveu"
+        "french": "cheveu",
+        "expertise": 0
     },
     {
         "id": 387,
-        "french": "offrir"
+        "french": "offrir",
+        "expertise": 0
     },
     {
         "id": 388,
-        "french": "surtout"
+        "french": "surtout",
+        "expertise": 0
     },
     {
         "id": 389,
-        "french": "certain"
+        "french": "certain",
+        "expertise": 0
     },
     {
         "id": 390,
-        "french": "plaisir"
+        "french": "plaisir",
+        "expertise": 0
     },
     {
         "id": 391,
-        "french": "suite"
+        "french": "suite",
+        "expertise": 0
     },
     {
         "id": 392,
-        "french": "apprendre"
+        "french": "apprendre",
+        "expertise": 0
     },
     {
         "id": 393,
-        "french": "malgré"
+        "french": "malgré",
+        "expertise": 0
     },
     {
         "id": 394,
-        "french": "tuer"
+        "french": "tuer",
+        "expertise": 0
     },
     {
         "id": 395,
-        "french": "rouge"
+        "french": "rouge",
+        "expertise": 0
     },
     {
         "id": 396,
-        "french": "sang"
+        "french": "sang",
+        "expertise": 0
     },
     {
         "id": 397,
-        "french": "retourner"
+        "french": "retourner",
+        "expertise": 0
     },
     {
         "id": 398,
-        "french": "rencontrer"
+        "french": "rencontrer",
+        "expertise": 0
     },
     {
         "id": 399,
-        "french": "sentiment"
+        "french": "sentiment",
+        "expertise": 0
     },
     {
         "id": 400,
-        "french": "fleur"
+        "french": "fleur",
+        "expertise": 0
     },
     {
         "id": 401,
-        "french": "cependant"
+        "french": "cependant",
+        "expertise": 0
     },
     {
         "id": 402,
-        "french": "service"
+        "french": "service",
+        "expertise": 0
     },
     {
         "id": 403,
-        "french": "plusieurs"
+        "french": "plusieurs",
+        "expertise": 0
     },
     {
         "id": 404,
-        "french": "table"
+        "french": "table",
+        "expertise": 0
     },
     {
         "id": 405,
-        "french": "vite"
+        "french": "vite",
+        "expertise": 0
     },
     {
         "id": 406,
-        "french": "paix"
+        "french": "paix",
+        "expertise": 0
     },
     {
         "id": 407,
-        "french": "envoyer"
+        "french": "envoyer",
+        "expertise": 0
     },
     {
         "id": 408,
-        "french": "moyen"
+        "french": "moyen",
+        "expertise": 0
     },
     {
         "id": 409,
-        "french": "dormir"
+        "french": "dormir",
+        "expertise": 0
     },
     {
         "id": 410,
-        "french": "pousser"
+        "french": "pousser",
+        "expertise": 0
     },
     {
         "id": 411,
-        "french": "lit"
+        "french": "lit",
+        "expertise": 0
     },
     {
         "id": 412,
-        "french": "humain"
+        "french": "humain",
+        "expertise": 0
     },
     {
         "id": 413,
-        "french": "voiture"
+        "french": "voiture",
+        "expertise": 0
     },
     {
         "id": 414,
-        "french": "rappeler"
+        "french": "rappeler",
+        "expertise": 0
     },
     {
         "id": 415,
-        "french": "être"
+        "french": "être",
+        "expertise": 0
     },
     {
         "id": 416,
-        "french": "lire"
+        "french": "lire",
+        "expertise": 0
     },
     {
         "id": 417,
-        "french": "général"
+        "french": "général",
+        "expertise": 0
     },
     {
         "id": 418,
-        "french": "nature"
+        "french": "nature",
+        "expertise": 0
     },
     {
         "id": 419,
-        "french": "or"
+        "french": "or",
+        "expertise": 0
     },
     {
         "id": 420,
-        "french": "pouvoir"
+        "french": "pouvoir",
+        "expertise": 0
     },
     {
         "id": 421,
-        "french": "nouveau"
+        "french": "nouveau",
+        "expertise": 0
     },
     {
         "id": 422,
-        "french": "français"
+        "french": "français",
+        "expertise": 0
     },
     {
         "id": 423,
-        "french": "joie"
+        "french": "joie",
+        "expertise": 0
     },
     {
         "id": 424,
-        "french": "sept"
+        "french": "sept",
+        "expertise": 0
     },
     {
         "id": 425,
-        "french": "tard"
+        "french": "tard",
+        "expertise": 0
     },
     {
         "id": 426,
-        "french": "président"
+        "french": "président",
+        "expertise": 0
     },
     {
         "id": 427,
-        "french": "pourtant"
+        "french": "pourtant",
+        "expertise": 0
     },
     {
         "id": 428,
-        "french": "bouche"
+        "french": "bouche",
+        "expertise": 0
     },
     {
         "id": 429,
-        "french": "changer"
+        "french": "changer",
+        "expertise": 0
     },
     {
         "id": 430,
-        "french": "petit"
+        "french": "petit",
+        "expertise": 0
     },
     {
         "id": 431,
-        "french": "froid"
+        "french": "froid",
+        "expertise": 0
     },
     {
         "id": 432,
-        "french": "compter"
+        "french": "compter",
+        "expertise": 0
     },
     {
         "id": 433,
-        "french": "occuper"
+        "french": "occuper",
+        "expertise": 0
     },
     {
         "id": 434,
-        "french": "sens"
+        "french": "sens",
+        "expertise": 0
     },
     {
         "id": 435,
-        "french": "cri"
+        "french": "cri",
+        "expertise": 0
     },
     {
         "id": 436,
-        "french": "cheval"
+        "french": "cheval",
+        "expertise": 0
     },
     {
         "id": 437,
-        "french": "loi"
+        "french": "loi",
+        "expertise": 0
     },
     {
         "id": 438,
-        "french": "sombre"
+        "french": "sombre",
+        "expertise": 0
     },
     {
         "id": 439,
-        "french": "ci"
+        "french": "ci",
+        "expertise": 0
     },
     {
         "id": 440,
-        "french": "sûr"
+        "french": "sûr",
+        "expertise": 0
     },
     {
         "id": 441,
-        "french": "espèce"
+        "french": "espèce",
+        "expertise": 0
     },
     {
         "id": 442,
-        "french": "voici"
+        "french": "voici",
+        "expertise": 0
     },
     {
         "id": 443,
-        "french": "ancien"
+        "french": "ancien",
+        "expertise": 0
     },
     {
         "id": 444,
-        "french": "tandis que"
+        "french": "tandis que",
+        "expertise": 0
     },
     {
         "id": 445,
-        "french": "frapper"
+        "french": "frapper",
+        "expertise": 0
     },
     {
         "id": 446,
-        "french": "ministre"
+        "french": "ministre",
+        "expertise": 0
     },
     {
         "id": 447,
-        "french": "puisque"
+        "french": "puisque",
+        "expertise": 0
     },
     {
         "id": 448,
-        "french": "selon"
+        "french": "selon",
+        "expertise": 0
     },
     {
         "id": 449,
-        "french": "travailler"
+        "french": "travailler",
+        "expertise": 0
     },
     {
         "id": 450,
-        "french": "expliquer"
+        "french": "expliquer",
+        "expertise": 0
     },
     {
         "id": 451,
-        "french": "propre"
+        "french": "propre",
+        "expertise": 0
     },
     {
         "id": 452,
-        "french": "obtenir"
+        "french": "obtenir",
+        "expertise": 0
     },
     {
         "id": 453,
-        "french": "rentrer"
+        "french": "rentrer",
+        "expertise": 0
     },
     {
         "id": 454,
-        "french": "mal"
+        "french": "mal",
+        "expertise": 0
     },
     {
         "id": 455,
-        "french": "pleurer"
+        "french": "pleurer",
+        "expertise": 0
     },
     {
         "id": 456,
-        "french": "essayer"
+        "french": "essayer",
+        "expertise": 0
     },
     {
         "id": 457,
-        "french": "répéter"
+        "french": "répéter",
+        "expertise": 0
     },
     {
         "id": 458,
-        "french": "société"
+        "french": "société",
+        "expertise": 0
     },
     {
         "id": 459,
-        "french": "parfois"
+        "french": "parfois",
+        "expertise": 0
     },
     {
         "id": 460,
-        "french": "politique"
+        "french": "politique",
+        "expertise": 0
     },
     {
         "id": 461,
-        "french": "oreille"
+        "french": "oreille",
+        "expertise": 0
     },
     {
         "id": 462,
-        "french": "payer"
+        "french": "payer",
+        "expertise": 0
     },
     {
         "id": 463,
-        "french": "politique"
+        "french": "politique",
+        "expertise": 0
     },
     {
         "id": 464,
-        "french": "apporter"
+        "french": "apporter",
+        "expertise": 0
     },
     {
         "id": 465,
-        "french": "fenêtre"
+        "french": "fenêtre",
+        "expertise": 0
     },
     {
         "id": 466,
-        "french": "derrière"
+        "french": "derrière",
+        "expertise": 0
     },
     {
         "id": 467,
-        "french": "possible"
+        "french": "possible",
+        "expertise": 0
     },
     {
         "id": 468,
-        "french": "fortune"
+        "french": "fortune",
+        "expertise": 0
     },
     {
         "id": 469,
-        "french": "compte"
+        "french": "compte",
+        "expertise": 0
     },
     {
         "id": 470,
-        "french": "champ"
+        "french": "champ",
+        "expertise": 0
     },
     {
         "id": 471,
-        "french": "manier"
+        "french": "manier",
+        "expertise": 0
     },
     {
         "id": 472,
-        "french": "vraiment"
+        "french": "vraiment",
+        "expertise": 0
     },
     {
         "id": 473,
-        "french": "immense"
+        "french": "immense",
+        "expertise": 0
     },
     {
         "id": 474,
-        "french": "action"
+        "french": "action",
+        "expertise": 0
     },
     {
         "id": 475,
-        "french": "boire"
+        "french": "boire",
+        "expertise": 0
     },
     {
         "id": 476,
-        "french": "public"
+        "french": "public",
+        "expertise": 0
     },
     {
         "id": 477,
-        "french": "garçon"
+        "french": "garçon",
+        "expertise": 0
     },
     {
         "id": 478,
-        "french": "pareil"
+        "french": "pareil",
+        "expertise": 0
     },
     {
         "id": 479,
-        "french": "bleu"
+        "french": "bleu",
+        "expertise": 0
     },
     {
         "id": 480,
-        "french": "sourire"
+        "french": "sourire",
+        "expertise": 0
     },
     {
         "id": 481,
-        "french": "couleur"
+        "french": "couleur",
+        "expertise": 0
     },
     {
         "id": 482,
-        "french": "coucher"
+        "french": "coucher",
+        "expertise": 0
     },
     {
         "id": 483,
-        "french": "papier"
+        "french": "papier",
+        "expertise": 0
     },
     {
         "id": 484,
-        "french": "d'autres"
+        "french": "d'autres",
+        "expertise": 0
     },
     {
         "id": 485,
-        "french": "mal"
+        "french": "mal",
+        "expertise": 0
     },
     {
         "id": 486,
-        "french": "fort"
+        "french": "fort",
+        "expertise": 0
     },
     {
         "id": 487,
-        "french": "bientôt"
+        "french": "bientôt",
+        "expertise": 0
     },
     {
         "id": 488,
-        "french": "causer"
+        "french": "causer",
+        "expertise": 0
     },
     {
         "id": 489,
-        "french": "pièce"
+        "french": "pièce",
+        "expertise": 0
     },
     {
         "id": 490,
-        "french": "montagne"
+        "french": "montagne",
+        "expertise": 0
     },
     {
         "id": 491,
-        "french": "sol"
+        "french": "sol",
+        "expertise": 0
     },
     {
         "id": 492,
-        "french": "oeuvre"
+        "french": "oeuvre",
+        "expertise": 0
     },
     {
         "id": 493,
-        "french": "partout"
+        "french": "partout",
+        "expertise": 0
     },
     {
         "id": 494,
-        "french": "trente"
+        "french": "trente",
+        "expertise": 0
     },
     {
         "id": 495,
-        "french": "exister"
+        "french": "exister",
+        "expertise": 0
     },
     {
         "id": 496,
-        "french": "cours"
+        "french": "cours",
+        "expertise": 0
     },
     {
         "id": 497,
-        "french": "raconter"
+        "french": "raconter",
+        "expertise": 0
     },
     {
         "id": 498,
-        "french": "serrer"
+        "french": "serrer",
+        "expertise": 0
     },
     {
         "id": 499,
-        "french": "songer"
+        "french": "songer",
+        "expertise": 0
     },
     {
         "id": 500,
-        "french": "désir"
+        "french": "désir",
+        "expertise": 0
     },
     {
         "id": 501,
-        "french": "manquer"
+        "french": "manquer",
+        "expertise": 0
     },
     {
         "id": 502,
-        "french": "cour"
+        "french": "cour",
+        "expertise": 0
     },
     {
         "id": 503,
-        "french": "nommer"
+        "french": "nommer",
+        "expertise": 0
     },
     {
         "id": 504,
-        "french": "bord"
+        "french": "bord",
+        "expertise": 0
     },
     {
         "id": 505,
-        "french": "douleur"
+        "french": "douleur",
+        "expertise": 0
     },
     {
         "id": 506,
-        "french": "conduire"
+        "french": "conduire",
+        "expertise": 0
     },
     {
         "id": 507,
-        "french": "salle"
+        "french": "salle",
+        "expertise": 0
     },
     {
         "id": 508,
-        "french": "saisir"
+        "french": "saisir",
+        "expertise": 0
     },
     {
         "id": 509,
-        "french": "premier"
+        "french": "premier",
+        "expertise": 0
     },
     {
         "id": 510,
-        "french": "comment"
+        "french": "comment",
+        "expertise": 0
     },
     {
         "id": 511,
-        "french": "projet"
+        "french": "projet",
+        "expertise": 0
     },
     {
         "id": 512,
-        "french": "demeurer"
+        "french": "demeurer",
+        "expertise": 0
     },
     {
         "id": 513,
-        "french": "simple"
+        "french": "simple",
+        "expertise": 0
     },
     {
         "id": 514,
-        "french": "étude"
+        "french": "étude",
+        "expertise": 0
     },
     {
         "id": 515,
-        "french": "remettre"
+        "french": "remettre",
+        "expertise": 0
     },
     {
         "id": 516,
-        "french": "journal"
+        "french": "journal",
+        "expertise": 0
     },
     {
         "id": 517,
-        "french": "geste"
+        "french": "geste",
+        "expertise": 0
     },
     {
         "id": 518,
-        "french": "disparaître"
+        "french": "disparaître",
+        "expertise": 0
     },
     {
         "id": 519,
-        "french": "battre"
+        "french": "battre",
+        "expertise": 0
     },
     {
         "id": 520,
-        "french": "toucher"
+        "french": "toucher",
+        "expertise": 0
     },
     {
         "id": 521,
-        "french": "situation"
+        "french": "situation",
+        "expertise": 0
     },
     {
         "id": 522,
-        "french": "oiseau"
+        "french": "oiseau",
+        "expertise": 0
     },
     {
         "id": 523,
-        "french": "nécessaire"
+        "french": "nécessaire",
+        "expertise": 0
     },
     {
         "id": 524,
-        "french": "exemple"
+        "french": "exemple",
+        "expertise": 0
     },
     {
         "id": 525,
-        "french": "siècle"
+        "french": "siècle",
+        "expertise": 0
     },
     {
         "id": 526,
-        "french": "apparaître"
+        "french": "apparaître",
+        "expertise": 0
     },
     {
         "id": 527,
-        "french": "souffrir"
+        "french": "souffrir",
+        "expertise": 0
     },
     {
         "id": 528,
-        "french": "million"
+        "french": "million",
+        "expertise": 0
     },
     {
         "id": 529,
-        "french": "prix"
+        "french": "prix",
+        "expertise": 0
     },
     {
         "id": 530,
-        "french": "groupe"
+        "french": "groupe",
+        "expertise": 0
     },
     {
         "id": 531,
-        "french": "centre"
+        "french": "centre",
+        "expertise": 0
     },
     {
         "id": 532,
-        "french": "malheur"
+        "french": "malheur",
+        "expertise": 0
     },
     {
         "id": 533,
-        "french": "honneur"
+        "french": "honneur",
+        "expertise": 0
     },
     {
         "id": 534,
-        "french": "fermer"
+        "french": "fermer",
+        "expertise": 0
     },
     {
         "id": 535,
-        "french": "accepter"
+        "french": "accepter",
+        "expertise": 0
     },
     {
         "id": 536,
-        "french": "garde"
+        "french": "garde",
+        "expertise": 0
     },
     {
         "id": 537,
-        "french": "mauvais"
+        "french": "mauvais",
+        "expertise": 0
     },
     {
         "id": 538,
-        "french": "tendre"
+        "french": "tendre",
+        "expertise": 0
     },
     {
         "id": 539,
-        "french": "naître"
+        "french": "naître",
+        "expertise": 0
     },
     {
         "id": 540,
-        "french": "sauver"
+        "french": "sauver",
+        "expertise": 0
     },
     {
         "id": 541,
-        "french": "entier"
+        "french": "entier",
+        "expertise": 0
     },
     {
         "id": 542,
-        "french": "parmi"
+        "french": "parmi",
+        "expertise": 0
     },
     {
         "id": 543,
-        "french": "problème"
+        "french": "problème",
+        "expertise": 0
     },
     {
         "id": 544,
-        "french": "larme"
+        "french": "larme",
+        "expertise": 0
     },
     {
         "id": 545,
-        "french": "avancer"
+        "french": "avancer",
+        "expertise": 0
     },
     {
         "id": 546,
-        "french": "chien"
+        "french": "chien",
+        "expertise": 0
     },
     {
         "id": 547,
-        "french": "peau"
+        "french": "peau",
+        "expertise": 0
     },
     {
         "id": 548,
-        "french": "reste"
+        "french": "reste",
+        "expertise": 0
     },
     {
         "id": 549,
-        "french": "traverser"
+        "french": "traverser",
+        "expertise": 0
     },
     {
         "id": 550,
-        "french": "nombre"
+        "french": "nombre",
+        "expertise": 0
     },
     {
         "id": 551,
-        "french": "debout"
+        "french": "debout",
+        "expertise": 0
     },
     {
         "id": 552,
-        "french": "mesure"
+        "french": "mesure",
+        "expertise": 0
     },
     {
         "id": 553,
-        "french": "social"
+        "french": "social",
+        "expertise": 0
     },
     {
         "id": 554,
-        "french": "souvenir"
+        "french": "souvenir",
+        "expertise": 0
     },
     {
         "id": 555,
-        "french": "article"
+        "french": "article",
+        "expertise": 0
     },
     {
         "id": 556,
-        "french": "vue"
+        "french": "vue",
+        "expertise": 0
     },
     {
         "id": 557,
-        "french": "couvrir"
+        "french": "couvrir",
+        "expertise": 0
     },
     {
         "id": 558,
-        "french": "âge"
+        "french": "âge",
+        "expertise": 0
     },
     {
         "id": 559,
-        "french": "gagner"
+        "french": "gagner",
+        "expertise": 0
     },
     {
         "id": 560,
-        "french": "système"
+        "french": "système",
+        "expertise": 0
     },
     {
         "id": 561,
-        "french": "long"
+        "french": "long",
+        "expertise": 0
     },
     {
         "id": 562,
-        "french": "former"
+        "french": "former",
+        "expertise": 0
     },
     {
         "id": 563,
-        "french": "plaire"
+        "french": "plaire",
+        "expertise": 0
     },
     {
         "id": 564,
-        "french": "embrasser"
+        "french": "embrasser",
+        "expertise": 0
     },
     {
         "id": 565,
-        "french": "rêve"
+        "french": "rêve",
+        "expertise": 0
     },
     {
         "id": 566,
-        "french": "oser"
+        "french": "oser",
+        "expertise": 0
     },
     {
         "id": 567,
-        "french": "afin de"
+        "french": "afin de",
+        "expertise": 0
     },
     {
         "id": 568,
-        "french": "passion"
+        "french": "passion",
+        "expertise": 0
     },
     {
         "id": 569,
-        "french": "auquel"
+        "french": "auquel",
+        "expertise": 0
     },
     {
         "id": 570,
-        "french": "rapport"
+        "french": "rapport",
+        "expertise": 0
     },
     {
         "id": 571,
-        "french": "refuser"
+        "french": "refuser",
+        "expertise": 0
     },
     {
         "id": 572,
-        "french": "important"
+        "french": "important",
+        "expertise": 0
     },
     {
         "id": 573,
-        "french": "décider"
+        "french": "décider",
+        "expertise": 0
     },
     {
         "id": 574,
-        "french": "produire"
+        "french": "produire",
+        "expertise": 0
     },
     {
         "id": 575,
-        "french": "soldat"
+        "french": "soldat",
+        "expertise": 0
     },
     {
         "id": 576,
-        "french": "lèvre"
+        "french": "lèvre",
+        "expertise": 0
     },
     {
         "id": 577,
-        "french": "signe"
+        "french": "signe",
+        "expertise": 0
     },
     {
         "id": 578,
-        "french": "vérité"
+        "french": "vérité",
+        "expertise": 0
     },
     {
         "id": 579,
-        "french": "charger"
+        "french": "charger",
+        "expertise": 0
     },
     {
         "id": 580,
-        "french": "mariage"
+        "french": "mariage",
+        "expertise": 0
     },
     {
         "id": 581,
-        "french": "mêler"
+        "french": "mêler",
+        "expertise": 0
     },
     {
         "id": 582,
-        "french": "certain"
+        "french": "certain",
+        "expertise": 0
     },
     {
         "id": 583,
-        "french": "plan"
+        "french": "plan",
+        "expertise": 0
     },
     {
         "id": 584,
-        "french": "cesser"
+        "french": "cesser",
+        "expertise": 0
     },
     {
         "id": 585,
-        "french": "ressembler"
+        "french": "ressembler",
+        "expertise": 0
     },
     {
         "id": 586,
-        "french": "dos"
+        "french": "dos",
+        "expertise": 0
     },
     {
         "id": 587,
-        "french": "marche"
+        "french": "marche",
+        "expertise": 0
     },
     {
         "id": 588,
-        "french": "souvenir"
+        "french": "souvenir",
+        "expertise": 0
     },
     {
         "id": 589,
-        "french": "dame"
+        "french": "dame",
+        "expertise": 0
     },
     {
         "id": 590,
-        "french": "chanter"
+        "french": "chanter",
+        "expertise": 0
     },
     {
         "id": 591,
-        "french": "plutôt"
+        "french": "plutôt",
+        "expertise": 0
     },
     {
         "id": 592,
-        "french": "conseil"
+        "french": "conseil",
+        "expertise": 0
     },
     {
         "id": 593,
-        "french": "sou"
+        "french": "sou",
+        "expertise": 0
     },
     {
         "id": 594,
-        "french": "triste"
+        "french": "triste",
+        "expertise": 0
     },
     {
         "id": 595,
-        "french": "coin"
+        "french": "coin",
+        "expertise": 0
     },
     {
         "id": 596,
-        "french": "jardin"
+        "french": "jardin",
+        "expertise": 0
     },
     {
         "id": 597,
-        "french": "joli"
+        "french": "joli",
+        "expertise": 0
     },
     {
         "id": 598,
-        "french": "soit"
+        "french": "soit",
+        "expertise": 0
     },
     {
         "id": 599,
-        "french": "empêcher"
+        "french": "empêcher",
+        "expertise": 0
     },
     {
         "id": 600,
-        "french": "doigt"
+        "french": "doigt",
+        "expertise": 0
     },
     {
         "id": 601,
-        "french": "objet"
+        "french": "objet",
+        "expertise": 0
     },
     {
         "id": 602,
-        "french": "fer"
+        "french": "fer",
+        "expertise": 0
     },
     {
         "id": 603,
-        "french": "lendemain"
+        "french": "lendemain",
+        "expertise": 0
     },
     {
         "id": 604,
-        "french": "lentement"
+        "french": "lentement",
+        "expertise": 0
     },
     {
         "id": 605,
-        "french": "combien"
+        "french": "combien",
+        "expertise": 0
     },
     {
         "id": 606,
-        "french": "approcher"
+        "french": "approcher",
+        "expertise": 0
     },
     {
         "id": 607,
-        "french": "prier"
+        "french": "prier",
+        "expertise": 0
     },
     {
         "id": 608,
-        "french": "train"
+        "french": "train",
+        "expertise": 0
     },
     {
         "id": 609,
-        "french": "espérer"
+        "french": "espérer",
+        "expertise": 0
     },
     {
         "id": 610,
-        "french": "papa"
+        "french": "papa",
+        "expertise": 0
     },
     {
         "id": 611,
-        "french": "différent"
+        "french": "différent",
+        "expertise": 0
     },
     {
         "id": 612,
-        "french": "valeur"
+        "french": "valeur",
+        "expertise": 0
     },
     {
         "id": 613,
-        "french": "jeu"
+        "french": "jeu",
+        "expertise": 0
     },
     {
         "id": 614,
-        "french": "échapper"
+        "french": "échapper",
+        "expertise": 0
     },
     {
         "id": 615,
-        "french": "glisser"
+        "french": "glisser",
+        "expertise": 0
     },
     {
         "id": 616,
-        "french": "secret"
+        "french": "secret",
+        "expertise": 0
     },
     {
         "id": 617,
-        "french": "haut"
+        "french": "haut",
+        "expertise": 0
     },
     {
         "id": 618,
-        "french": "vieillard"
+        "french": "vieillard",
+        "expertise": 0
     },
     {
         "id": 619,
-        "french": "briller"
+        "french": "briller",
+        "expertise": 0
     },
     {
         "id": 620,
-        "french": "docteur"
+        "french": "docteur",
+        "expertise": 0
     },
     {
         "id": 621,
-        "french": "brûler"
+        "french": "brûler",
+        "expertise": 0
     },
     {
         "id": 622,
-        "french": "terrible"
+        "french": "terrible",
+        "expertise": 0
     },
     {
         "id": 623,
-        "french": "placer"
+        "french": "placer",
+        "expertise": 0
     },
     {
         "id": 624,
-        "french": "ton"
+        "french": "ton",
+        "expertise": 0
     },
     {
         "id": 625,
-        "french": "jambe"
+        "french": "jambe",
+        "expertise": 0
     },
     {
         "id": 626,
-        "french": "juger"
+        "french": "juger",
+        "expertise": 0
     },
     {
         "id": 627,
-        "french": "suffire"
+        "french": "suffire",
+        "expertise": 0
     },
     {
         "id": 628,
-        "french": "endroit"
+        "french": "endroit",
+        "expertise": 0
     },
     {
         "id": 629,
-        "french": "minute"
+        "french": "minute",
+        "expertise": 0
     },
     {
         "id": 630,
-        "french": "atteindre"
+        "french": "atteindre",
+        "expertise": 0
     },
     {
         "id": 631,
-        "french": "nuage"
+        "french": "nuage",
+        "expertise": 0
     },
     {
         "id": 632,
-        "french": "présence"
+        "french": "présence",
+        "expertise": 0
     },
     {
         "id": 633,
-        "french": "fou"
+        "french": "fou",
+        "expertise": 0
     },
     {
         "id": 634,
-        "french": "épaule"
+        "french": "épaule",
+        "expertise": 0
     },
     {
         "id": 635,
-        "french": "léger"
+        "french": "léger",
+        "expertise": 0
     },
     {
         "id": 636,
-        "french": "feuille"
+        "french": "feuille",
+        "expertise": 0
     },
     {
         "id": 637,
-        "french": "liberté"
+        "french": "liberté",
+        "expertise": 0
     },
     {
         "id": 638,
-        "french": "journée"
+        "french": "journée",
+        "expertise": 0
     },
     {
         "id": 639,
-        "french": "libre"
+        "french": "libre",
+        "expertise": 0
     },
     {
         "id": 640,
-        "french": "annoncer"
+        "french": "annoncer",
+        "expertise": 0
     },
     {
         "id": 641,
-        "french": "avenir"
+        "french": "avenir",
+        "expertise": 0
     },
     {
         "id": 642,
-        "french": "sourire"
+        "french": "sourire",
+        "expertise": 0
     },
     {
         "id": 643,
-        "french": "hier"
+        "french": "hier",
+        "expertise": 0
     },
     {
         "id": 644,
-        "french": "résultat"
+        "french": "résultat",
+        "expertise": 0
     },
     {
         "id": 645,
-        "french": "élever"
+        "french": "élever",
+        "expertise": 0
     },
     {
         "id": 646,
-        "french": "acheter"
+        "french": "acheter",
+        "expertise": 0
     },
     {
         "id": 647,
-        "french": "mener"
+        "french": "mener",
+        "expertise": 0
     },
     {
         "id": 648,
-        "french": "préparer"
+        "french": "préparer",
+        "expertise": 0
     },
     {
         "id": 649,
-        "french": "pourquoi"
+        "french": "pourquoi",
+        "expertise": 0
     },
     {
         "id": 650,
-        "french": "hôtel"
+        "french": "hôtel",
+        "expertise": 0
     },
     {
         "id": 651,
-        "french": "semaine"
+        "french": "semaine",
+        "expertise": 0
     },
     {
         "id": 652,
-        "french": "forêt"
+        "french": "forêt",
+        "expertise": 0
     },
     {
         "id": 653,
-        "french": "assurer"
+        "french": "assurer",
+        "expertise": 0
     },
     {
         "id": 654,
-        "french": "pur"
+        "french": "pur",
+        "expertise": 0
     },
     {
         "id": 655,
-        "french": "qualité"
+        "french": "qualité",
+        "expertise": 0
     },
     {
         "id": 656,
-        "french": "prince"
+        "french": "prince",
+        "expertise": 0
     },
     {
         "id": 657,
-        "french": "bien"
+        "french": "bien",
+        "expertise": 0
     },
     {
         "id": 658,
-        "french": "également"
+        "french": "également",
+        "expertise": 0
     },
     {
         "id": 659,
-        "french": "deviner"
+        "french": "deviner",
+        "expertise": 0
     },
     {
         "id": 660,
-        "french": "médecin"
+        "french": "médecin",
+        "expertise": 0
     },
     {
         "id": 661,
-        "french": "considérer"
+        "french": "considérer",
+        "expertise": 0
     },
     {
         "id": 662,
-        "french": "volonté"
+        "french": "volonté",
+        "expertise": 0
     },
     {
         "id": 663,
-        "french": "seigneur"
+        "french": "seigneur",
+        "expertise": 0
     },
     {
         "id": 664,
-        "french": "effort"
+        "french": "effort",
+        "expertise": 0
     },
     {
         "id": 665,
-        "french": "quelque"
+        "french": "quelque",
+        "expertise": 0
     },
     {
         "id": 666,
-        "french": "vert"
+        "french": "vert",
+        "expertise": 0
     },
     {
         "id": 667,
-        "french": "art"
+        "french": "art",
+        "expertise": 0
     },
     {
         "id": 668,
-        "french": "moindre"
+        "french": "moindre",
+        "expertise": 0
     },
     {
         "id": 669,
-        "french": "demain"
+        "french": "demain",
+        "expertise": 0
     },
     {
         "id": 670,
-        "french": "quarante"
+        "french": "quarante",
+        "expertise": 0
     },
     {
         "id": 671,
-        "french": "cinquante"
+        "french": "cinquante",
+        "expertise": 0
     },
     {
         "id": 672,
-        "french": "foule"
+        "french": "foule",
+        "expertise": 0
     },
     {
         "id": 673,
-        "french": "appartenir"
+        "french": "appartenir",
+        "expertise": 0
     },
     {
         "id": 674,
-        "french": "aussitôt"
+        "french": "aussitôt",
+        "expertise": 0
     },
     {
         "id": 675,
-        "french": "ligne"
+        "french": "ligne",
+        "expertise": 0
     },
     {
         "id": 676,
-        "french": "représenter"
+        "french": "représenter",
+        "expertise": 0
     },
     {
         "id": 677,
-        "french": "tromper"
+        "french": "tromper",
+        "expertise": 0
     },
     {
         "id": 678,
-        "french": "intérieur"
+        "french": "intérieur",
+        "expertise": 0
     },
     {
         "id": 679,
-        "french": "vendre"
+        "french": "vendre",
+        "expertise": 0
     },
     {
         "id": 680,
-        "french": "beauté"
+        "french": "beauté",
+        "expertise": 0
     },
     {
         "id": 681,
-        "french": "riche"
+        "french": "riche",
+        "expertise": 0
     },
     {
         "id": 682,
-        "french": "craindre"
+        "french": "craindre",
+        "expertise": 0
     },
     {
         "id": 683,
-        "french": "étrange"
+        "french": "étrange",
+        "expertise": 0
     },
     {
         "id": 684,
-        "french": "emporter"
+        "french": "emporter",
+        "expertise": 0
     },
     {
         "id": 685,
-        "french": "ensuite"
+        "french": "ensuite",
+        "expertise": 0
     },
     {
         "id": 686,
-        "french": "soin"
+        "french": "soin",
+        "expertise": 0
     },
     {
         "id": 687,
-        "french": "naturel"
+        "french": "naturel",
+        "expertise": 0
     },
     {
         "id": 688,
-        "french": "hasard"
+        "french": "hasard",
+        "expertise": 0
     },
     {
         "id": 689,
-        "french": "puis"
+        "french": "puis",
+        "expertise": 0
     },
     {
         "id": 690,
-        "french": "condition"
+        "french": "condition",
+        "expertise": 0
     },
     {
         "id": 691,
-        "french": "quinze"
+        "french": "quinze",
+        "expertise": 0
     },
     {
         "id": 692,
-        "french": "classe"
+        "french": "classe",
+        "expertise": 0
     },
     {
         "id": 693,
-        "french": "voyage"
+        "french": "voyage",
+        "expertise": 0
     },
     {
         "id": 694,
-        "french": "auprès"
+        "french": "auprès",
+        "expertise": 0
     },
     {
         "id": 695,
-        "french": "présent"
+        "french": "présent",
+        "expertise": 0
     },
     {
         "id": 696,
-        "french": "caractère"
+        "french": "caractère",
+        "expertise": 0
     },
     {
         "id": 697,
-        "french": "attention"
+        "french": "attention",
+        "expertise": 0
     },
     {
         "id": 698,
-        "french": "gris"
+        "french": "gris",
+        "expertise": 0
     },
     {
         "id": 699,
-        "french": "or"
+        "french": "or",
+        "expertise": 0
     },
     {
         "id": 700,
-        "french": "rouler"
+        "french": "rouler",
+        "expertise": 0
     },
     {
         "id": 701,
-        "french": "faible"
+        "french": "faible",
+        "expertise": 0
     },
     {
         "id": 702,
-        "french": "posséder"
+        "french": "posséder",
+        "expertise": 0
     },
     {
         "id": 703,
-        "french": "scène"
+        "french": "scène",
+        "expertise": 0
     },
     {
         "id": 704,
-        "french": "difficile"
+        "french": "difficile",
+        "expertise": 0
     },
     {
         "id": 705,
-        "french": "français"
+        "french": "français",
+        "expertise": 0
     },
     {
         "id": 706,
-        "french": "réveiller"
+        "french": "réveiller",
+        "expertise": 0
     },
     {
         "id": 707,
-        "french": "foi"
+        "french": "foi",
+        "expertise": 0
     },
     {
         "id": 708,
-        "french": "aider"
+        "french": "aider",
+        "expertise": 0
     },
     {
         "id": 709,
-        "french": "découvrir"
+        "french": "découvrir",
+        "expertise": 0
     },
     {
         "id": 710,
-        "french": "odeur"
+        "french": "odeur",
+        "expertise": 0
     },
     {
         "id": 711,
-        "french": "choisir"
+        "french": "choisir",
+        "expertise": 0
     },
     {
         "id": 712,
-        "french": "musique"
+        "french": "musique",
+        "expertise": 0
     },
     {
         "id": 713,
-        "french": "oncle"
+        "french": "oncle",
+        "expertise": 0
     },
     {
         "id": 714,
-        "french": "événement"
+        "french": "événement",
+        "expertise": 0
     },
     {
         "id": 715,
-        "french": "prononcer"
+        "french": "prononcer",
+        "expertise": 0
     },
     {
         "id": 716,
-        "french": "village"
+        "french": "village",
+        "expertise": 0
     },
     {
         "id": 717,
-        "french": "taire"
+        "french": "taire",
+        "expertise": 0
     },
     {
         "id": 718,
-        "french": "envie"
+        "french": "envie",
+        "expertise": 0
     },
     {
         "id": 719,
-        "french": "midi"
+        "french": "midi",
+        "expertise": 0
     },
     {
         "id": 720,
-        "french": "ensemble"
+        "french": "ensemble",
+        "expertise": 0
     },
     {
         "id": 721,
-        "french": "expression"
+        "french": "expression",
+        "expertise": 0
     },
     {
         "id": 722,
-        "french": "herbe"
+        "french": "herbe",
+        "expertise": 0
     },
     {
         "id": 723,
-        "french": "vieux"
+        "french": "vieux",
+        "expertise": 0
     },
     {
         "id": 724,
-        "french": "pluie"
+        "french": "pluie",
+        "expertise": 0
     },
     {
         "id": 725,
-        "french": "près"
+        "french": "près",
+        "expertise": 0
     },
     {
         "id": 726,
-        "french": "bas"
+        "french": "bas",
+        "expertise": 0
     },
     {
         "id": 727,
-        "french": "rêver"
+        "french": "rêver",
+        "expertise": 0
     },
     {
         "id": 728,
-        "french": "appuyer"
+        "french": "appuyer",
+        "expertise": 0
     },
     {
         "id": 729,
-        "french": "étendre"
+        "french": "étendre",
+        "expertise": 0
     },
     {
         "id": 730,
-        "french": "après"
+        "french": "après",
+        "expertise": 0
     },
     {
         "id": 731,
-        "french": "général"
+        "french": "général",
+        "expertise": 0
     },
     {
         "id": 732,
-        "french": "lutte"
+        "french": "lutte",
+        "expertise": 0
     },
     {
         "id": 733,
-        "french": "trembler"
+        "french": "trembler",
+        "expertise": 0
     },
     {
         "id": 734,
-        "french": "réponse"
+        "french": "réponse",
+        "expertise": 0
     },
     {
         "id": 735,
-        "french": "grâce"
+        "french": "grâce",
+        "expertise": 0
     },
     {
         "id": 736,
-        "french": "espace"
+        "french": "espace",
+        "expertise": 0
     },
     {
         "id": 737,
-        "french": "habitude"
+        "french": "habitude",
+        "expertise": 0
     },
     {
         "id": 738,
-        "french": "défendre"
+        "french": "défendre",
+        "expertise": 0
     },
     {
         "id": 739,
-        "french": "mémoire"
+        "french": "mémoire",
+        "expertise": 0
     },
     {
         "id": 740,
-        "french": "créer"
+        "french": "créer",
+        "expertise": 0
     },
     {
         "id": 741,
-        "french": "grave"
+        "french": "grave",
+        "expertise": 0
     },
     {
         "id": 742,
-        "french": "maintenir"
+        "french": "maintenir",
+        "expertise": 0
     },
     {
         "id": 743,
-        "french": "verre"
+        "french": "verre",
+        "expertise": 0
     },
     {
         "id": 744,
-        "french": "campagne"
+        "french": "campagne",
+        "expertise": 0
     },
     {
         "id": 745,
-        "french": "quelqu'un"
+        "french": "quelqu'un",
+        "expertise": 0
     },
     {
         "id": 746,
-        "french": "juge"
+        "french": "juge",
+        "expertise": 0
     },
     {
         "id": 747,
-        "french": "genou"
+        "french": "genou",
+        "expertise": 0
     },
     {
         "id": 748,
-        "french": "impossible"
+        "french": "impossible",
+        "expertise": 0
     },
     {
         "id": 749,
-        "french": "fête"
+        "french": "fête",
+        "expertise": 0
     },
     {
         "id": 750,
-        "french": "indiquer"
+        "french": "indiquer",
+        "expertise": 0
     },
     {
         "id": 751,
-        "french": "prêt"
+        "french": "prêt",
+        "expertise": 0
     },
     {
         "id": 752,
-        "french": "promettre"
+        "french": "promettre",
+        "expertise": 0
     },
     {
         "id": 753,
-        "french": "relever"
+        "french": "relever",
+        "expertise": 0
     },
     {
         "id": 754,
-        "french": "abandonner"
+        "french": "abandonner",
+        "expertise": 0
     },
     {
         "id": 755,
-        "french": "ignorer"
+        "french": "ignorer",
+        "expertise": 0
     },
     {
         "id": 756,
-        "french": "large"
+        "french": "large",
+        "expertise": 0
     },
     {
         "id": 757,
-        "french": "parent"
+        "french": "parent",
+        "expertise": 0
     },
     {
         "id": 758,
-        "french": "colère"
+        "french": "colère",
+        "expertise": 0
     },
     {
         "id": 759,
-        "french": "exprimer"
+        "french": "exprimer",
+        "expertise": 0
     },
     {
         "id": 760,
-        "french": "étoile"
+        "french": "étoile",
+        "expertise": 0
     },
     {
         "id": 761,
-        "french": "devoir"
+        "french": "devoir",
+        "expertise": 0
     },
     {
         "id": 762,
-        "french": "conscience"
+        "french": "conscience",
+        "expertise": 0
     },
     {
         "id": 763,
-        "french": "existence"
+        "french": "existence",
+        "expertise": 0
     },
     {
         "id": 764,
-        "french": "accompagner"
+        "french": "accompagner",
+        "expertise": 0
     },
     {
         "id": 765,
-        "french": "immobile"
+        "french": "immobile",
+        "expertise": 0
     },
     {
         "id": 766,
-        "french": "adresser"
+        "french": "adresser",
+        "expertise": 0
     },
     {
         "id": 767,
-        "french": "observer"
+        "french": "observer",
+        "expertise": 0
     },
     {
         "id": 768,
-        "french": "juste"
+        "french": "juste",
+        "expertise": 0
     },
     {
         "id": 769,
-        "french": "puissance"
+        "french": "puissance",
+        "expertise": 0
     },
     {
         "id": 770,
-        "french": "matière"
+        "french": "matière",
+        "expertise": 0
     },
     {
         "id": 771,
-        "french": "sable"
+        "french": "sable",
+        "expertise": 0
     },
     {
         "id": 772,
-        "french": "séparer"
+        "french": "séparer",
+        "expertise": 0
     },
     {
         "id": 773,
-        "french": "marier"
+        "french": "marier",
+        "expertise": 0
     },
     {
         "id": 774,
-        "french": "prévoir"
+        "french": "prévoir",
+        "expertise": 0
     },
     {
         "id": 775,
-        "french": "vivant"
+        "french": "vivant",
+        "expertise": 0
     },
     {
         "id": 776,
-        "french": "accord"
+        "french": "accord",
+        "expertise": 0
     },
     {
         "id": 777,
-        "french": "hiver"
+        "french": "hiver",
+        "expertise": 0
     },
     {
         "id": 778,
-        "french": "retour"
+        "french": "retour",
+        "expertise": 0
     },
     {
         "id": 779,
-        "french": "autrefois"
+        "french": "autrefois",
+        "expertise": 0
     },
     {
         "id": 780,
-        "french": "genre"
+        "french": "genre",
+        "expertise": 0
     },
     {
         "id": 781,
-        "french": "d'autres"
+        "french": "d'autres",
+        "expertise": 0
     },
     {
         "id": 782,
-        "french": "vif"
+        "french": "vif",
+        "expertise": 0
     },
     {
         "id": 783,
-        "french": "amener"
+        "french": "amener",
+        "expertise": 0
     },
     {
         "id": 784,
-        "french": "obliger"
+        "french": "obliger",
+        "expertise": 0
     },
     {
         "id": 785,
-        "french": "acte"
+        "french": "acte",
+        "expertise": 0
     },
     {
         "id": 786,
-        "french": "image"
+        "french": "image",
+        "expertise": 0
     },
     {
         "id": 787,
-        "french": "horizon"
+        "french": "horizon",
+        "expertise": 0
     },
     {
         "id": 788,
-        "french": "éclairer"
+        "french": "éclairer",
+        "expertise": 0
     },
     {
         "id": 789,
-        "french": "poursuivre"
+        "french": "poursuivre",
+        "expertise": 0
     },
     {
         "id": 790,
-        "french": "danger"
+        "french": "danger",
+        "expertise": 0
     },
     {
         "id": 791,
-        "french": "livrer"
+        "french": "livrer",
+        "expertise": 0
     },
     {
         "id": 792,
-        "french": "rôle"
+        "french": "rôle",
+        "expertise": 0
     },
     {
         "id": 793,
-        "french": "escalier"
+        "french": "escalier",
+        "expertise": 0
     },
     {
         "id": 794,
-        "french": "goût"
+        "french": "goût",
+        "expertise": 0
     },
     {
         "id": 795,
-        "french": "bête"
+        "french": "bête",
+        "expertise": 0
     },
     {
         "id": 796,
-        "french": "ceci"
+        "french": "ceci",
+        "expertise": 0
     },
     {
         "id": 797,
-        "french": "recherche"
+        "french": "recherche",
+        "expertise": 0
     },
     {
         "id": 798,
-        "french": "membre"
+        "french": "membre",
+        "expertise": 0
     },
     {
         "id": 799,
-        "french": "pain"
+        "french": "pain",
+        "expertise": 0
     },
     {
         "id": 800,
-        "french": "phrase"
+        "french": "phrase",
+        "expertise": 0
     },
     {
         "id": 801,
-        "french": "contenir"
+        "french": "contenir",
+        "expertise": 0
     },
     {
         "id": 802,
-        "french": "rire"
+        "french": "rire",
+        "expertise": 0
     },
     {
         "id": 803,
-        "french": "fuir"
+        "french": "fuir",
+        "expertise": 0
     },
     {
         "id": 804,
-        "french": "couler"
+        "french": "couler",
+        "expertise": 0
     },
     {
         "id": 805,
-        "french": "terme"
+        "french": "terme",
+        "expertise": 0
     },
     {
         "id": 806,
-        "french": "eaux"
+        "french": "eaux",
+        "expertise": 0
     },
     {
         "id": 807,
-        "french": "moyen"
+        "french": "moyen",
+        "expertise": 0
     },
     {
         "id": 808,
-        "french": "police"
+        "french": "police",
+        "expertise": 0
     },
     {
         "id": 809,
-        "french": "rocher"
+        "french": "rocher",
+        "expertise": 0
     },
     {
         "id": 810,
-        "french": "proposer"
+        "french": "proposer",
+        "expertise": 0
     },
     {
         "id": 811,
-        "french": "tranquille"
+        "french": "tranquille",
+        "expertise": 0
     },
     {
         "id": 812,
-        "french": "unique"
+        "french": "unique",
+        "expertise": 0
     },
     {
         "id": 813,
-        "french": "éprouver"
+        "french": "éprouver",
+        "expertise": 0
     },
     {
         "id": 814,
-        "french": "retenir"
+        "french": "retenir",
+        "expertise": 0
     },
     {
         "id": 815,
-        "french": "type"
+        "french": "type",
+        "expertise": 0
     },
     {
         "id": 816,
-        "french": "vin"
+        "french": "vin",
+        "expertise": 0
     },
     {
         "id": 817,
-        "french": "supérieur"
+        "french": "supérieur",
+        "expertise": 0
     },
     {
         "id": 818,
-        "french": "attacher"
+        "french": "attacher",
+        "expertise": 0
     },
     {
         "id": 819,
-        "french": "voler"
+        "french": "voler",
+        "expertise": 0
     },
     {
         "id": 820,
-        "french": "sec"
+        "french": "sec",
+        "expertise": 0
     },
     {
         "id": 821,
-        "french": "justice"
+        "french": "justice",
+        "expertise": 0
     },
     {
         "id": 822,
-        "french": "époque"
+        "french": "époque",
+        "expertise": 0
     },
     {
         "id": 823,
-        "french": "passage"
+        "french": "passage",
+        "expertise": 0
     },
     {
         "id": 824,
-        "french": "somme"
+        "french": "somme",
+        "expertise": 0
     },
     {
         "id": 825,
-        "french": "science"
+        "french": "science",
+        "expertise": 0
     },
     {
         "id": 826,
-        "french": "surprendre"
+        "french": "surprendre",
+        "expertise": 0
     },
     {
         "id": 827,
-        "french": "côte"
+        "french": "côte",
+        "expertise": 0
     },
     {
         "id": 828,
-        "french": "doucement"
+        "french": "doucement",
+        "expertise": 0
     },
     {
         "id": 829,
-        "french": "gauche"
+        "french": "gauche",
+        "expertise": 0
     },
     {
         "id": 830,
-        "french": "faute"
+        "french": "faute",
+        "expertise": 0
     },
     {
         "id": 831,
-        "french": "école"
+        "french": "école",
+        "expertise": 0
     },
     {
         "id": 832,
-        "french": "bon"
+        "french": "bon",
+        "expertise": 0
     },
     {
         "id": 833,
-        "french": "ensemble"
+        "french": "ensemble",
+        "expertise": 0
     },
     {
         "id": 834,
-        "french": "rayon"
+        "french": "rayon",
+        "expertise": 0
     },
     {
         "id": 835,
-        "french": "briser"
+        "french": "briser",
+        "expertise": 0
     },
     {
         "id": 836,
-        "french": "sujet"
+        "french": "sujet",
+        "expertise": 0
     },
     {
         "id": 837,
-        "french": "imaginer"
+        "french": "imaginer",
+        "expertise": 0
     },
     {
         "id": 838,
-        "french": "diriger"
+        "french": "diriger",
+        "expertise": 0
     },
     {
         "id": 839,
-        "french": "douze"
+        "french": "douze",
+        "expertise": 0
     },
     {
         "id": 840,
-        "french": "en"
+        "french": "en",
+        "expertise": 0
     },
     {
         "id": 841,
-        "french": "l'une"
+        "french": "l'une",
+        "expertise": 0
     },
     {
         "id": 842,
-        "french": "dernier"
+        "french": "dernier",
+        "expertise": 0
     },
     {
         "id": 843,
-        "french": "avis"
+        "french": "avis",
+        "expertise": 0
     },
     {
         "id": 844,
-        "french": "parvenir"
+        "french": "parvenir",
+        "expertise": 0
     },
     {
         "id": 845,
-        "french": "ouvert"
+        "french": "ouvert",
+        "expertise": 0
     },
     {
         "id": 846,
-        "french": "pénétrer"
+        "french": "pénétrer",
+        "expertise": 0
     },
     {
         "id": 847,
-        "french": "poète"
+        "french": "poète",
+        "expertise": 0
     },
     {
         "id": 848,
-        "french": "meilleur"
+        "french": "meilleur",
+        "expertise": 0
     },
     {
         "id": 849,
-        "french": "paysan"
+        "french": "paysan",
+        "expertise": 0
     },
     {
         "id": 850,
-        "french": "remarquer"
+        "french": "remarquer",
+        "expertise": 0
     },
     {
         "id": 851,
-        "french": "chair"
+        "french": "chair",
+        "expertise": 0
     },
     {
         "id": 852,
-        "french": "éviter"
+        "french": "éviter",
+        "expertise": 0
     },
     {
         "id": 853,
-        "french": "soudain"
+        "french": "soudain",
+        "expertise": 0
     },
     {
         "id": 854,
-        "french": "succès"
+        "french": "succès",
+        "expertise": 0
     },
     {
         "id": 855,
-        "french": "île"
+        "french": "île",
+        "expertise": 0
     },
     {
         "id": 856,
-        "french": "établir"
+        "french": "établir",
+        "expertise": 0
     },
     {
         "id": 857,
-        "french": "réussir"
+        "french": "réussir",
+        "expertise": 0
     },
     {
         "id": 858,
-        "french": "pencher"
+        "french": "pencher",
+        "expertise": 0
     },
     {
         "id": 859,
-        "french": "habiter"
+        "french": "habiter",
+        "expertise": 0
     },
     {
         "id": 860,
-        "french": "entourer"
+        "french": "entourer",
+        "expertise": 0
     },
     {
         "id": 861,
-        "french": "déclarer"
+        "french": "déclarer",
+        "expertise": 0
     },
     {
         "id": 862,
-        "french": "détail"
+        "french": "détail",
+        "expertise": 0
     },
     {
         "id": 863,
-        "french": "arme"
+        "french": "arme",
+        "expertise": 0
     },
     {
         "id": 864,
-        "french": "réalité"
+        "french": "réalité",
+        "expertise": 0
     },
     {
         "id": 865,
-        "french": "confiance"
+        "french": "confiance",
+        "expertise": 0
     },
     {
         "id": 866,
-        "french": "masse"
+        "french": "masse",
+        "expertise": 0
     },
     {
         "id": 867,
-        "french": "crise"
+        "french": "crise",
+        "expertise": 0
     },
     {
         "id": 868,
-        "french": "étonner"
+        "french": "étonner",
+        "expertise": 0
     },
     {
         "id": 869,
-        "french": "poste"
+        "french": "poste",
+        "expertise": 0
     },
     {
         "id": 870,
-        "french": "dresser"
+        "french": "dresser",
+        "expertise": 0
     },
     {
         "id": 871,
-        "french": "durer"
+        "french": "durer",
+        "expertise": 0
     },
     {
         "id": 872,
-        "french": "depuis"
+        "french": "depuis",
+        "expertise": 0
     },
     {
         "id": 873,
-        "french": "FAUX"
+        "french": "FAUX",
+        "expertise": 0
     },
     {
         "id": 874,
-        "french": "fixer"
+        "french": "fixer",
+        "expertise": 0
     },
     {
         "id": 875,
-        "french": "énorme"
+        "french": "énorme",
+        "expertise": 0
     },
     {
         "id": 876,
-        "french": "principe"
+        "french": "principe",
+        "expertise": 0
     },
     {
         "id": 877,
-        "french": "direction"
+        "french": "direction",
+        "expertise": 0
     },
     {
         "id": 878,
-        "french": "taille"
+        "french": "taille",
+        "expertise": 0
     },
     {
         "id": 879,
-        "french": "désirer"
+        "french": "désirer",
+        "expertise": 0
     },
     {
         "id": 880,
-        "french": "santé"
+        "french": "santé",
+        "expertise": 0
     },
     {
         "id": 881,
-        "french": "ventre"
+        "french": "ventre",
+        "expertise": 0
     },
     {
         "id": 882,
-        "french": "marché"
+        "french": "marché",
+        "expertise": 0
     },
     {
         "id": 883,
-        "french": "puissant"
+        "french": "puissant",
+        "expertise": 0
     },
     {
         "id": 884,
-        "french": "simplement"
+        "french": "simplement",
+        "expertise": 0
     },
     {
         "id": 885,
-        "french": "environ"
+        "french": "environ",
+        "expertise": 0
     },
     {
         "id": 886,
-        "french": "tellement"
+        "french": "tellement",
+        "expertise": 0
     },
     {
         "id": 887,
-        "french": "arracher"
+        "french": "arracher",
+        "expertise": 0
     },
     {
         "id": 888,
-        "french": "entraîner"
+        "french": "entraîner",
+        "expertise": 0
     },
     {
         "id": 889,
-        "french": "soutenir"
+        "french": "soutenir",
+        "expertise": 0
     },
     {
         "id": 890,
-        "french": "couper"
+        "french": "couper",
+        "expertise": 0
     },
     {
         "id": 891,
-        "french": "trou"
+        "french": "trou",
+        "expertise": 0
     },
     {
         "id": 892,
-        "french": "inconnu"
+        "french": "inconnu",
+        "expertise": 0
     },
     {
         "id": 893,
-        "french": "pont"
+        "french": "pont",
+        "expertise": 0
     },
     {
         "id": 894,
-        "french": "lune"
+        "french": "lune",
+        "expertise": 0
     },
     {
         "id": 895,
-        "french": "dehors"
+        "french": "dehors",
+        "expertise": 0
     },
     {
         "id": 896,
-        "french": "certes"
+        "french": "certes",
+        "expertise": 0
     },
     {
         "id": 897,
-        "french": "beaux"
+        "french": "beaux",
+        "expertise": 0
     },
     {
         "id": 898,
-        "french": "robe"
+        "french": "robe",
+        "expertise": 0
     },
     {
         "id": 899,
-        "french": "douter"
+        "french": "douter",
+        "expertise": 0
     },
     {
         "id": 900,
-        "french": "retirer"
+        "french": "retirer",
+        "expertise": 0
     },
     {
         "id": 901,
-        "french": "cesse"
+        "french": "cesse",
+        "expertise": 0
     },
     {
         "id": 902,
-        "french": "brusquement"
+        "french": "brusquement",
+        "expertise": 0
     },
     {
         "id": 903,
-        "french": "entrée"
+        "french": "entrée",
+        "expertise": 0
     },
     {
         "id": 904,
-        "french": "source"
+        "french": "source",
+        "expertise": 0
     },
     {
         "id": 905,
-        "french": "camarade"
+        "french": "camarade",
+        "expertise": 0
     },
     {
         "id": 906,
-        "french": "dent"
+        "french": "dent",
+        "expertise": 0
     },
     {
         "id": 907,
-        "french": "quant à"
+        "french": "quant à",
+        "expertise": 0
     },
     {
         "id": 908,
-        "french": "connaissance"
+        "french": "connaissance",
+        "expertise": 0
     },
     {
         "id": 909,
-        "french": "cou"
+        "french": "cou",
+        "expertise": 0
     },
     {
         "id": 910,
-        "french": "but"
+        "french": "but",
+        "expertise": 0
     },
     {
         "id": 911,
-        "french": "promener"
+        "french": "promener",
+        "expertise": 0
     },
     {
         "id": 912,
-        "french": "vague"
+        "french": "vague",
+        "expertise": 0
     },
     {
         "id": 913,
-        "french": "élément"
+        "french": "élément",
+        "expertise": 0
     },
     {
         "id": 914,
-        "french": "fil"
+        "french": "fil",
+        "expertise": 0
     },
     {
         "id": 915,
-        "french": "voie"
+        "french": "voie",
+        "expertise": 0
     },
     {
         "id": 916,
-        "french": "nez"
+        "french": "nez",
+        "expertise": 0
     },
     {
         "id": 917,
-        "french": "forcer"
+        "french": "forcer",
+        "expertise": 0
     },
     {
         "id": 918,
-        "french": "particulier"
+        "french": "particulier",
+        "expertise": 0
     },
     {
         "id": 919,
-        "french": "discours"
+        "french": "discours",
+        "expertise": 0
     },
     {
         "id": 920,
-        "french": "maladie"
+        "french": "maladie",
+        "expertise": 0
     },
     {
         "id": 921,
-        "french": "chaleur"
+        "french": "chaleur",
+        "expertise": 0
     },
     {
         "id": 922,
-        "french": "gloire"
+        "french": "gloire",
+        "expertise": 0
     },
     {
         "id": 923,
-        "french": "vide"
+        "french": "vide",
+        "expertise": 0
     },
     {
         "id": 924,
-        "french": "examiner"
+        "french": "examiner",
+        "expertise": 0
     },
     {
         "id": 925,
-        "french": "revoir"
+        "french": "revoir",
+        "expertise": 0
     },
     {
         "id": 926,
-        "french": "aide"
+        "french": "aide",
+        "expertise": 0
     },
     {
         "id": 927,
-        "french": "début"
+        "french": "début",
+        "expertise": 0
     },
     {
         "id": 928,
-        "french": "ennemi"
+        "french": "ennemi",
+        "expertise": 0
     },
     {
         "id": 929,
-        "french": "second"
+        "french": "second",
+        "expertise": 0
     },
     {
         "id": 930,
-        "french": "aile"
+        "french": "aile",
+        "expertise": 0
     },
     {
         "id": 931,
-        "french": "flamme"
+        "french": "flamme",
+        "expertise": 0
     },
     {
         "id": 932,
-        "french": "chaise"
+        "french": "chaise",
+        "expertise": 0
     },
     {
         "id": 933,
-        "french": "lourd"
+        "french": "lourd",
+        "expertise": 0
     },
     {
         "id": 934,
-        "french": "sein"
+        "french": "sein",
+        "expertise": 0
     },
     {
         "id": 935,
-        "french": "véritable"
+        "french": "véritable",
+        "expertise": 0
     },
     {
         "id": 936,
-        "french": "toit"
+        "french": "toit",
+        "expertise": 0
     },
     {
         "id": 937,
-        "french": "remplir"
+        "french": "remplir",
+        "expertise": 0
     },
     {
         "id": 938,
-        "french": "terminer"
+        "french": "terminer",
+        "expertise": 0
     },
     {
         "id": 939,
-        "french": "vaste"
+        "french": "vaste",
+        "expertise": 0
     },
     {
         "id": 940,
-        "french": "nu"
+        "french": "nu",
+        "expertise": 0
     },
     {
         "id": 941,
-        "french": "poussière"
+        "french": "poussière",
+        "expertise": 0
     },
     {
         "id": 942,
-        "french": "nord"
+        "french": "nord",
+        "expertise": 0
     },
     {
         "id": 943,
-        "french": "tenter"
+        "french": "tenter",
+        "expertise": 0
     },
     {
         "id": 944,
-        "french": "émotion"
+        "french": "émotion",
+        "expertise": 0
     },
     {
         "id": 945,
-        "french": "hors"
+        "french": "hors",
+        "expertise": 0
     },
     {
         "id": 946,
-        "french": "un"
+        "french": "un",
+        "expertise": 0
     },
     {
         "id": 947,
-        "french": "remonter"
+        "french": "remonter",
+        "expertise": 0
     },
     {
         "id": 948,
-        "french": "révolution"
+        "french": "révolution",
+        "expertise": 0
     },
     {
         "id": 949,
-        "french": "théâtre"
+        "french": "théâtre",
+        "expertise": 0
     },
     {
         "id": 950,
-        "french": "armée"
+        "french": "armée",
+        "expertise": 0
     },
     {
         "id": 951,
-        "french": "court"
+        "french": "court",
+        "expertise": 0
     },
     {
         "id": 952,
-        "french": "noir"
+        "french": "noir",
+        "expertise": 0
     },
     {
         "id": 953,
-        "french": "appartement"
+        "french": "appartement",
+        "expertise": 0
     },
     {
         "id": 954,
-        "french": "semblable"
+        "french": "semblable",
+        "expertise": 0
     },
     {
         "id": 955,
-        "french": "installer"
+        "french": "installer",
+        "expertise": 0
     },
     {
         "id": 956,
-        "french": "haine"
+        "french": "haine",
+        "expertise": 0
     },
     {
         "id": 957,
-        "french": "jeune"
+        "french": "jeune",
+        "expertise": 0
     },
     {
         "id": 958,
-        "french": "position"
+        "french": "position",
+        "expertise": 0
     },
     {
         "id": 959,
-        "french": "seconde"
+        "french": "seconde",
+        "expertise": 0
     },
     {
         "id": 960,
-        "french": "frais"
+        "french": "frais",
+        "expertise": 0
     },
     {
         "id": 961,
-        "french": "appel"
+        "french": "appel",
+        "expertise": 0
     },
     {
         "id": 962,
-        "french": "soulever"
+        "french": "soulever",
+        "expertise": 0
     },
     {
         "id": 963,
-        "french": "espoir"
+        "french": "espoir",
+        "expertise": 0
     },
     {
         "id": 964,
-        "french": "allumer"
+        "french": "allumer",
+        "expertise": 0
     },
     {
         "id": 965,
-        "french": "imposer"
+        "french": "imposer",
+        "expertise": 0
     },
     {
         "id": 966,
-        "french": "avant"
+        "french": "avant",
+        "expertise": 0
     },
     {
         "id": 967,
-        "french": "respirer"
+        "french": "respirer",
+        "expertise": 0
     },
     {
         "id": 968,
-        "french": "arrière"
+        "french": "arrière",
+        "expertise": 0
     },
     {
         "id": 969,
-        "french": "baisser"
+        "french": "baisser",
+        "expertise": 0
     },
     {
         "id": 970,
-        "french": "droite"
+        "french": "droite",
+        "expertise": 0
     },
     {
         "id": 971,
-        "french": "poitrine"
+        "french": "poitrine",
+        "expertise": 0
     },
     {
         "id": 972,
-        "french": "mort"
+        "french": "mort",
+        "expertise": 0
     },
     {
         "id": 973,
-        "french": "jeunesse"
+        "french": "jeunesse",
+        "expertise": 0
     },
     {
         "id": 974,
-        "french": "bureau"
+        "french": "bureau",
+        "expertise": 0
     },
     {
         "id": 975,
-        "french": "sac"
+        "french": "sac",
+        "expertise": 0
     },
     {
         "id": 976,
-        "french": "étranger"
+        "french": "étranger",
+        "expertise": 0
     },
     {
         "id": 977,
-        "french": "courage"
+        "french": "courage",
+        "expertise": 0
     },
     {
         "id": 978,
-        "french": "souffler"
+        "french": "souffler",
+        "expertise": 0
     },
     {
         "id": 979,
-        "french": "jaune"
+        "french": "jaune",
+        "expertise": 0
     },
     {
         "id": 980,
-        "french": "page"
+        "french": "page",
+        "expertise": 0
     },
     {
         "id": 981,
-        "french": "étranger"
+        "french": "étranger",
+        "expertise": 0
     },
     {
         "id": 982,
-        "french": "etc"
+        "french": "etc",
+        "expertise": 0
     },
     {
         "id": 983,
-        "french": "miser"
+        "french": "miser",
+        "expertise": 0
     },
     {
         "id": 984,
-        "french": "passé"
+        "french": "passé",
+        "expertise": 0
     },
     {
         "id": 985,
-        "french": "rapide"
+        "french": "rapide",
+        "expertise": 0
     },
     {
         "id": 986,
-        "french": "digne"
+        "french": "digne",
+        "expertise": 0
     },
     {
         "id": 987,
-        "french": "chaud"
+        "french": "chaud",
+        "expertise": 0
     },
     {
         "id": 988,
-        "french": "propos"
+        "french": "propos",
+        "expertise": 0
     },
     {
         "id": 989,
-        "french": "attirer"
+        "french": "attirer",
+        "expertise": 0
     },
     {
         "id": 990,
-        "french": "prêter"
+        "french": "prêter",
+        "expertise": 0
     },
     {
         "id": 991,
-        "french": "clair"
+        "french": "clair",
+        "expertise": 0
     },
     {
         "id": 992,
-        "french": "amuser"
+        "french": "amuser",
+        "expertise": 0
     },
     {
         "id": 993,
-        "french": "occasion"
+        "french": "occasion",
+        "expertise": 0
     },
     {
         "id": 994,
-        "french": "voile"
+        "french": "voile",
+        "expertise": 0
     },
     {
         "id": 995,
-        "french": "éclater"
+        "french": "éclater",
+        "expertise": 0
     },
     {
         "id": 996,
-        "french": "importance"
+        "french": "importance",
+        "expertise": 0
     },
     {
         "id": 997,
-        "french": "quartier"
+        "french": "quartier",
+        "expertise": 0
     },
     {
         "id": 998,
-        "french": "soi"
+        "french": "soi",
+        "expertise": 0
     },
     {
         "id": 999,
-        "french": "auteur"
+        "french": "auteur",
+        "expertise": 0
     },
     {
         "id": 1000,
-        "french": "religion"
+        "french": "religion",
+        "expertise": 0
     },
     {
         "id": 1001,
-        "french": "palais"
+        "french": "palais",
+        "expertise": 0
     },
     {
         "id": 1002,
-        "french": "réunir"
+        "french": "réunir",
+        "expertise": 0
     },
     {
         "id": 1003,
-        "french": "traiter"
+        "french": "traiter",
+        "expertise": 0
     },
     {
         "id": 1004,
-        "french": "flot"
+        "french": "flot",
+        "expertise": 0
     },
     {
         "id": 1005,
-        "french": "intelligence"
+        "french": "intelligence",
+        "expertise": 0
     },
     {
         "id": 1006,
-        "french": "tantôt"
+        "french": "tantôt",
+        "expertise": 0
     },
     {
         "id": 1007,
-        "french": "voisin"
+        "french": "voisin",
+        "expertise": 0
     },
     {
         "id": 1008,
-        "french": "carte"
+        "french": "carte",
+        "expertise": 0
     },
     {
         "id": 1009,
-        "french": "secret"
+        "french": "secret",
+        "expertise": 0
     },
     {
         "id": 1010,
-        "french": "animal"
+        "french": "animal",
+        "expertise": 0
     },
     {
         "id": 1011,
-        "french": "été"
+        "french": "été",
+        "expertise": 0
     },
     {
         "id": 1012,
-        "french": "traîner"
+        "french": "traîner",
+        "expertise": 0
     },
     {
         "id": 1013,
-        "french": "cabinet"
+        "french": "cabinet",
+        "expertise": 0
     },
     {
         "id": 1014,
-        "french": "morceau"
+        "french": "morceau",
+        "expertise": 0
     },
     {
         "id": 1015,
-        "french": "employer"
+        "french": "employer",
+        "expertise": 0
     },
     {
         "id": 1016,
-        "french": "capable"
+        "french": "capable",
+        "expertise": 0
     },
     {
         "id": 1017,
-        "french": "souffrance"
+        "french": "souffrance",
+        "expertise": 0
     },
     {
         "id": 1018,
-        "french": "marquer"
+        "french": "marquer",
+        "expertise": 0
     },
     {
         "id": 1019,
-        "french": "prouver"
+        "french": "prouver",
+        "expertise": 0
     },
     {
         "id": 1020,
-        "french": "importer"
+        "french": "importer",
+        "expertise": 0
     },
     {
         "id": 1021,
-        "french": "titre"
+        "french": "titre",
+        "expertise": 0
     },
     {
         "id": 1022,
-        "french": "désert"
+        "french": "désert",
+        "expertise": 0
     },
     {
         "id": 1023,
-        "french": "facile"
+        "french": "facile",
+        "expertise": 0
     },
     {
         "id": 1024,
-        "french": "spectacle"
+        "french": "spectacle",
+        "expertise": 0
     },
     {
         "id": 1025,
-        "french": "exiger"
+        "french": "exiger",
+        "expertise": 0
     },
     {
         "id": 1026,
-        "french": "reposer"
+        "french": "reposer",
+        "expertise": 0
     },
     {
         "id": 1027,
-        "french": "départ"
+        "french": "départ",
+        "expertise": 0
     },
     {
         "id": 1028,
-        "french": "fier"
+        "french": "fier",
+        "expertise": 0
     },
     {
         "id": 1029,
-        "french": "danser"
+        "french": "danser",
+        "expertise": 0
     },
     {
         "id": 1030,
-        "french": "demande"
+        "french": "demande",
+        "expertise": 0
     },
     {
         "id": 1031,
-        "french": "saluer"
+        "french": "saluer",
+        "expertise": 0
     },
     {
         "id": 1032,
-        "french": "lueur"
+        "french": "lueur",
+        "expertise": 0
     },
     {
         "id": 1033,
-        "french": "joue"
+        "french": "joue",
+        "expertise": 0
     },
     {
         "id": 1034,
-        "french": "saint"
+        "french": "saint",
+        "expertise": 0
     },
     {
         "id": 1035,
-        "french": "accorder"
+        "french": "accorder",
+        "expertise": 0
     },
     {
         "id": 1036,
-        "french": "prière"
+        "french": "prière",
+        "expertise": 0
     },
     {
         "id": 1037,
-        "french": "achever"
+        "french": "achever",
+        "expertise": 0
     },
     {
         "id": 1038,
-        "french": "avouer"
+        "french": "avouer",
+        "expertise": 0
     },
     {
         "id": 1039,
-        "french": "distinguer"
+        "french": "distinguer",
+        "expertise": 0
     },
     {
         "id": 1040,
-        "french": "emmener"
+        "french": "emmener",
+        "expertise": 0
     },
     {
         "id": 1041,
-        "french": "fonction"
+        "french": "fonction",
+        "expertise": 0
     },
     {
         "id": 1042,
-        "french": "durant"
+        "french": "durant",
+        "expertise": 0
     },
     {
         "id": 1043,
-        "french": "haut"
+        "french": "haut",
+        "expertise": 0
     },
     {
         "id": 1044,
-        "french": "aspect"
+        "french": "aspect",
+        "expertise": 0
     },
     {
         "id": 1045,
-        "french": "sommeil"
+        "french": "sommeil",
+        "expertise": 0
     },
     {
         "id": 1046,
-        "french": "éclat"
+        "french": "éclat",
+        "expertise": 0
     },
     {
         "id": 1047,
-        "french": "moitié"
+        "french": "moitié",
+        "expertise": 0
     },
     {
         "id": 1048,
-        "french": "demi"
+        "french": "demi",
+        "expertise": 0
     },
     {
         "id": 1049,
-        "french": "calme"
+        "french": "calme",
+        "expertise": 0
     },
     {
         "id": 1050,
-        "french": "contraire"
+        "french": "contraire",
+        "expertise": 0
     },
     {
         "id": 1051,
-        "french": "colline"
+        "french": "colline",
+        "expertise": 0
     },
     {
         "id": 1052,
-        "french": "agiter"
+        "french": "agiter",
+        "expertise": 0
     },
     {
         "id": 1053,
-        "french": "hésiter"
+        "french": "hésiter",
+        "expertise": 0
     },
     {
         "id": 1054,
-        "french": "terrain"
+        "french": "terrain",
+        "expertise": 0
     },
     {
         "id": 1055,
-        "french": "rare"
+        "french": "rare",
+        "expertise": 0
     },
     {
         "id": 1056,
-        "french": "poids"
+        "french": "poids",
+        "expertise": 0
     },
     {
         "id": 1057,
-        "french": "sonner"
+        "french": "sonner",
+        "expertise": 0
     },
     {
         "id": 1058,
-        "french": "changement"
+        "french": "changement",
+        "expertise": 0
     },
     {
         "id": 1059,
-        "french": "charge"
+        "french": "charge",
+        "expertise": 0
     },
     {
         "id": 1060,
-        "french": "davantage"
+        "french": "davantage",
+        "expertise": 0
     },
     {
         "id": 1061,
-        "french": "composer"
+        "french": "composer",
+        "expertise": 0
     },
     {
         "id": 1062,
-        "french": "enlever"
+        "french": "enlever",
+        "expertise": 0
     },
     {
         "id": 1063,
-        "french": "poche"
+        "french": "poche",
+        "expertise": 0
     },
     {
         "id": 1064,
-        "french": "rejoindre"
+        "french": "rejoindre",
+        "expertise": 0
     },
     {
         "id": 1065,
-        "french": "son"
+        "french": "son",
+        "expertise": 0
     },
     {
         "id": 1066,
-        "french": "intérieur"
+        "french": "intérieur",
+        "expertise": 0
     },
     {
         "id": 1067,
-        "french": "veille"
+        "french": "veille",
+        "expertise": 0
     },
     {
         "id": 1068,
-        "french": "ramener"
+        "french": "ramener",
+        "expertise": 0
     },
     {
         "id": 1069,
-        "french": "fruit"
+        "french": "fruit",
+        "expertise": 0
     },
     {
         "id": 1070,
-        "french": "complet"
+        "french": "complet",
+        "expertise": 0
     },
     {
         "id": 1071,
-        "french": "étudier"
+        "french": "étudier",
+        "expertise": 0
     },
     {
         "id": 1072,
-        "french": "partager"
+        "french": "partager",
+        "expertise": 0
     },
     {
         "id": 1073,
-        "french": "croix"
+        "french": "croix",
+        "expertise": 0
     },
     {
         "id": 1074,
-        "french": "suivant"
+        "french": "suivant",
+        "expertise": 0
     },
     {
         "id": 1075,
-        "french": "chasser"
+        "french": "chasser",
+        "expertise": 0
     },
     {
         "id": 1076,
-        "french": "interrompre"
+        "french": "interrompre",
+        "expertise": 0
     },
     {
         "id": 1077,
-        "french": "éloigner"
+        "french": "éloigner",
+        "expertise": 0
     },
     {
         "id": 1078,
-        "french": "trésor"
+        "french": "trésor",
+        "expertise": 0
     },
     {
         "id": 1079,
-        "french": "compagnie"
+        "french": "compagnie",
+        "expertise": 0
     },
     {
         "id": 1080,
-        "french": "étroit"
+        "french": "étroit",
+        "expertise": 0
     },
     {
         "id": 1081,
-        "french": "cuisine"
+        "french": "cuisine",
+        "expertise": 0
     },
     {
         "id": 1082,
-        "french": "réduire"
+        "french": "réduire",
+        "expertise": 0
     },
     {
         "id": 1083,
-        "french": "engager"
+        "french": "engager",
+        "expertise": 0
     },
     {
         "id": 1084,
-        "french": "égal"
+        "french": "égal",
+        "expertise": 0
     },
     {
         "id": 1085,
-        "french": "empire"
+        "french": "empire",
+        "expertise": 0
     },
     {
         "id": 1086,
-        "french": "nation"
+        "french": "nation",
+        "expertise": 0
     },
     {
         "id": 1087,
-        "french": "éteindre"
+        "french": "éteindre",
+        "expertise": 0
     },
     {
         "id": 1088,
-        "french": "recommencer"
+        "french": "recommencer",
+        "expertise": 0
     },
     {
         "id": 1089,
-        "french": "sauter"
+        "french": "sauter",
+        "expertise": 0
     },
     {
         "id": 1090,
-        "french": "plaindre"
+        "french": "plaindre",
+        "expertise": 0
     },
     {
         "id": 1091,
-        "french": "conversation"
+        "french": "conversation",
+        "expertise": 0
     },
     {
         "id": 1092,
-        "french": "soirée"
+        "french": "soirée",
+        "expertise": 0
     },
     {
         "id": 1093,
-        "french": "violent"
+        "french": "violent",
+        "expertise": 0
     },
     {
         "id": 1094,
-        "french": "impression"
+        "french": "impression",
+        "expertise": 0
     },
     {
         "id": 1095,
-        "french": "trait"
+        "french": "trait",
+        "expertise": 0
     },
     {
         "id": 1096,
-        "french": "devant"
+        "french": "devant",
+        "expertise": 0
     },
     {
         "id": 1097,
-        "french": "préférer"
+        "french": "préférer",
+        "expertise": 0
     },
     {
         "id": 1098,
-        "french": "révéler"
+        "french": "révéler",
+        "expertise": 0
     },
     {
         "id": 1099,
-        "french": "sien"
+        "french": "sien",
+        "expertise": 0
     },
     {
         "id": 1100,
-        "french": "magnifique"
+        "french": "magnifique",
+        "expertise": 0
     },
     {
         "id": 1101,
-        "french": "désespoir"
+        "french": "désespoir",
+        "expertise": 0
     },
     {
         "id": 1102,
-        "french": "témoin"
+        "french": "témoin",
+        "expertise": 0
     },
     {
         "id": 1103,
-        "french": "visite"
+        "french": "visite",
+        "expertise": 0
     },
     {
         "id": 1104,
-        "french": "respect"
+        "french": "respect",
+        "expertise": 0
     },
     {
         "id": 1105,
-        "french": "solitude"
+        "french": "solitude",
+        "expertise": 0
     },
     {
         "id": 1106,
-        "french": "subir"
+        "french": "subir",
+        "expertise": 0
     },
     {
         "id": 1107,
-        "french": "delà"
+        "french": "delà",
+        "expertise": 0
     },
     {
         "id": 1108,
-        "french": "prochain"
+        "french": "prochain",
+        "expertise": 0
     },
     {
         "id": 1109,
-        "french": "anglais"
+        "french": "anglais",
+        "expertise": 0
     },
     {
         "id": 1110,
-        "french": "rapporter"
+        "french": "rapporter",
+        "expertise": 0
     },
     {
         "id": 1111,
-        "french": "coûter"
+        "french": "coûter",
+        "expertise": 0
     },
     {
         "id": 1112,
-        "french": "réfléchir"
+        "french": "réfléchir",
+        "expertise": 0
     },
     {
         "id": 1113,
-        "french": "officier"
+        "french": "officier",
+        "expertise": 0
     },
     {
         "id": 1114,
-        "french": "remercier"
+        "french": "remercier",
+        "expertise": 0
     },
     {
         "id": 1115,
-        "french": "déposer"
+        "french": "déposer",
+        "expertise": 0
     },
     {
         "id": 1116,
-        "french": "fauteuil"
+        "french": "fauteuil",
+        "expertise": 0
     },
     {
         "id": 1117,
-        "french": "fumer"
+        "french": "fumer",
+        "expertise": 0
     },
     {
         "id": 1118,
-        "french": "tôt"
+        "french": "tôt",
+        "expertise": 0
     },
     {
         "id": 1119,
-        "french": "affirmer"
+        "french": "affirmer",
+        "expertise": 0
     },
     {
         "id": 1120,
-        "french": "relation"
+        "french": "relation",
+        "expertise": 0
     },
     {
         "id": 1121,
-        "french": "fumée"
+        "french": "fumée",
+        "expertise": 0
     },
     {
         "id": 1122,
-        "french": "convenir"
+        "french": "convenir",
+        "expertise": 0
     },
     {
         "id": 1123,
-        "french": "branche"
+        "french": "branche",
+        "expertise": 0
     },
     {
         "id": 1124,
-        "french": "malade"
+        "french": "malade",
+        "expertise": 0
     },
     {
         "id": 1125,
-        "french": "circonstance"
+        "french": "circonstance",
+        "expertise": 0
     },
     {
         "id": 1126,
-        "french": "ouvrage"
+        "french": "ouvrage",
+        "expertise": 0
     },
     {
         "id": 1127,
-        "french": "compagnon"
+        "french": "compagnon",
+        "expertise": 0
     },
     {
         "id": 1128,
-        "french": "vêtir"
+        "french": "vêtir",
+        "expertise": 0
     },
     {
         "id": 1129,
-        "french": "expérience"
+        "french": "expérience",
+        "expertise": 0
     },
     {
         "id": 1130,
-        "french": "port"
+        "french": "port",
+        "expertise": 0
     },
     {
         "id": 1131,
-        "french": "accomplir"
+        "french": "accomplir",
+        "expertise": 0
     },
     {
         "id": 1132,
-        "french": "avec"
+        "french": "avec",
+        "expertise": 0
     },
     {
         "id": 1133,
-        "french": "résoudre"
+        "french": "résoudre",
+        "expertise": 0
     },
     {
         "id": 1134,
-        "french": "plonger"
+        "french": "plonger",
+        "expertise": 0
     },
     {
         "id": 1135,
-        "french": "goutte"
+        "french": "goutte",
+        "expertise": 0
     },
     {
         "id": 1136,
-        "french": "mien"
+        "french": "mien",
+        "expertise": 0
     },
     {
         "id": 1137,
-        "french": "chant"
+        "french": "chant",
+        "expertise": 0
     },
     {
         "id": 1138,
-        "french": "détruire"
+        "french": "détruire",
+        "expertise": 0
     },
     {
         "id": 1139,
-        "french": "combat"
+        "french": "combat",
+        "expertise": 0
     },
     {
         "id": 1140,
-        "french": "personnage"
+        "french": "personnage",
+        "expertise": 0
     },
     {
         "id": 1141,
-        "french": "aventure"
+        "french": "aventure",
+        "expertise": 0
     },
     {
         "id": 1142,
-        "french": "intéresser"
+        "french": "intéresser",
+        "expertise": 0
     },
     {
         "id": 1143,
-        "french": "disposer"
+        "french": "disposer",
+        "expertise": 0
     },
     {
         "id": 1144,
-        "french": "absence"
+        "french": "absence",
+        "expertise": 0
     },
     {
         "id": 1145,
-        "french": "machine"
+        "french": "machine",
+        "expertise": 0
     },
     {
         "id": 1146,
-        "french": "aucun"
+        "french": "aucun",
+        "expertise": 0
     },
     {
         "id": 1147,
-        "french": "grâce"
+        "french": "grâce",
+        "expertise": 0
     },
     {
         "id": 1148,
-        "french": "chaîne"
+        "french": "chaîne",
+        "expertise": 0
     },
     {
         "id": 1149,
-        "french": "honte"
+        "french": "honte",
+        "expertise": 0
     },
     {
         "id": 1150,
-        "french": "fait"
+        "french": "fait",
+        "expertise": 0
     },
     {
         "id": 1151,
-        "french": "lisser"
+        "french": "lisser",
+        "expertise": 0
     },
     {
         "id": 1152,
-        "french": "faim"
+        "french": "faim",
+        "expertise": 0
     },
     {
         "id": 1153,
-        "french": "plaine"
+        "french": "plaine",
+        "expertise": 0
     },
     {
         "id": 1154,
-        "french": "verser"
+        "french": "verser",
+        "expertise": 0
     },
     {
         "id": 1155,
-        "french": "pointe"
+        "french": "pointe",
+        "expertise": 0
     },
     {
         "id": 1156,
-        "french": "obéir"
+        "french": "obéir",
+        "expertise": 0
     },
     {
         "id": 1157,
-        "french": "preuve"
+        "french": "preuve",
+        "expertise": 0
     },
     {
         "id": 1158,
-        "french": "éternel"
+        "french": "éternel",
+        "expertise": 0
     },
     {
         "id": 1159,
-        "french": "lutter"
+        "french": "lutter",
+        "expertise": 0
     },
     {
         "id": 1160,
-        "french": "prétendre"
+        "french": "prétendre",
+        "expertise": 0
     },
     {
         "id": 1161,
-        "french": "bataille"
+        "french": "bataille",
+        "expertise": 0
     },
     {
         "id": 1162,
-        "french": "construire"
+        "french": "construire",
+        "expertise": 0
     },
     {
         "id": 1163,
-        "french": "énergie"
+        "french": "énergie",
+        "expertise": 0
     },
     {
         "id": 1164,
-        "french": "victime"
+        "french": "victime",
+        "expertise": 0
     },
     {
         "id": 1165,
-        "french": "sauvage"
+        "french": "sauvage",
+        "expertise": 0
     },
     {
         "id": 1166,
-        "french": "soumettre"
+        "french": "soumettre",
+        "expertise": 0
     },
     {
         "id": 1167,
-        "french": "usage"
+        "french": "usage",
+        "expertise": 0
     },
     {
         "id": 1168,
-        "french": "peser"
+        "french": "peser",
+        "expertise": 0
     },
     {
         "id": 1169,
-        "french": "double"
+        "french": "double",
+        "expertise": 0
     },
     {
         "id": 1170,
-        "french": "tache"
+        "french": "tache",
+        "expertise": 0
     },
     {
         "id": 1171,
-        "french": "guère"
+        "french": "guère",
+        "expertise": 0
     },
     {
         "id": 1172,
-        "french": "hauteur"
+        "french": "hauteur",
+        "expertise": 0
     },
     {
         "id": 1173,
-        "french": "troubler"
+        "french": "troubler",
+        "expertise": 0
     },
     {
         "id": 1174,
-        "french": "tendre"
+        "french": "tendre",
+        "expertise": 0
     },
     {
         "id": 1175,
-        "french": "beau"
+        "french": "beau",
+        "expertise": 0
     },
     {
         "id": 1176,
-        "french": "curiosité"
+        "french": "curiosité",
+        "expertise": 0
     },
     {
         "id": 1177,
-        "french": "répandre"
+        "french": "répandre",
+        "expertise": 0
     },
     {
         "id": 1178,
-        "french": "glace"
+        "french": "glace",
+        "expertise": 0
     },
     {
         "id": 1179,
-        "french": "résister"
+        "french": "résister",
+        "expertise": 0
     },
     {
         "id": 1180,
-        "french": "froid"
+        "french": "froid",
+        "expertise": 0
     },
     {
         "id": 1181,
-        "french": "prison"
+        "french": "prison",
+        "expertise": 0
     },
     {
         "id": 1182,
-        "french": "étage"
+        "french": "étage",
+        "expertise": 0
     },
     {
         "id": 1183,
-        "french": "billet"
+        "french": "billet",
+        "expertise": 0
     },
     {
         "id": 1184,
-        "french": "droit"
+        "french": "droit",
+        "expertise": 0
     },
     {
         "id": 1185,
-        "french": "sérieux"
+        "french": "sérieux",
+        "expertise": 0
     },
     {
         "id": 1186,
-        "french": "protéger"
+        "french": "protéger",
+        "expertise": 0
     },
     {
         "id": 1187,
-        "french": "pauvre"
+        "french": "pauvre",
+        "expertise": 0
     },
     {
         "id": 1188,
-        "french": "rose"
+        "french": "rose",
+        "expertise": 0
     },
     {
         "id": 1189,
-        "french": "enfermer"
+        "french": "enfermer",
+        "expertise": 0
     },
     {
         "id": 1190,
-        "french": "attitude"
+        "french": "attitude",
+        "expertise": 0
     },
     {
         "id": 1191,
-        "french": "dur"
+        "french": "dur",
+        "expertise": 0
     },
     {
         "id": 1192,
-        "french": "mode"
+        "french": "mode",
+        "expertise": 0
     },
     {
         "id": 1193,
-        "french": "neuf"
+        "french": "neuf",
+        "expertise": 0
     },
     {
         "id": 1194,
-        "french": "crainte"
+        "french": "crainte",
+        "expertise": 0
     },
     {
         "id": 1195,
-        "french": "creuser"
+        "french": "creuser",
+        "expertise": 0
     },
     {
         "id": 1196,
-        "french": "grandir"
+        "french": "grandir",
+        "expertise": 0
     },
     {
         "id": 1197,
-        "french": "enfoncer"
+        "french": "enfoncer",
+        "expertise": 0
     },
     {
         "id": 1198,
-        "french": "vêtement"
+        "french": "vêtement",
+        "expertise": 0
     },
     {
         "id": 1199,
-        "french": "envelopper"
+        "french": "envelopper",
+        "expertise": 0
     },
     {
         "id": 1200,
-        "french": "vague"
+        "french": "vague",
+        "expertise": 0
     },
     {
         "id": 1201,
-        "french": "prévenir"
+        "french": "prévenir",
+        "expertise": 0
     },
     {
         "id": 1202,
-        "french": "violence"
+        "french": "violence",
+        "expertise": 0
     },
     {
         "id": 1203,
-        "french": "inspirer"
+        "french": "inspirer",
+        "expertise": 0
     },
     {
         "id": 1204,
-        "french": "inutile"
+        "french": "inutile",
+        "expertise": 0
     },
     {
         "id": 1205,
-        "french": "content"
+        "french": "content",
+        "expertise": 0
     },
     {
         "id": 1206,
-        "french": "courant"
+        "french": "courant",
+        "expertise": 0
     },
     {
         "id": 1207,
-        "french": "folie"
+        "french": "folie",
+        "expertise": 0
     },
     {
         "id": 1208,
-        "french": "pitié"
+        "french": "pitié",
+        "expertise": 0
     },
     {
         "id": 1209,
-        "french": "intention"
+        "french": "intention",
+        "expertise": 0
     },
     {
         "id": 1210,
-        "french": "ramasser"
+        "french": "ramasser",
+        "expertise": 0
     },
     {
         "id": 1211,
-        "french": "endormir"
+        "french": "endormir",
+        "expertise": 0
     },
     {
         "id": 1212,
-        "french": "inventer"
+        "french": "inventer",
+        "expertise": 0
     },
     {
         "id": 1213,
-        "french": "trace"
+        "french": "trace",
+        "expertise": 0
     },
     {
         "id": 1214,
-        "french": "toile"
+        "french": "toile",
+        "expertise": 0
     },
     {
         "id": 1215,
-        "french": "presser"
+        "french": "presser",
+        "expertise": 0
     },
     {
         "id": 1216,
-        "french": "confier"
+        "french": "confier",
+        "expertise": 0
     },
     {
         "id": 1217,
-        "french": "effacer"
+        "french": "effacer",
+        "expertise": 0
     },
     {
         "id": 1218,
-        "french": "reculer"
+        "french": "reculer",
+        "expertise": 0
     },
     {
         "id": 1219,
-        "french": "user"
+        "french": "user",
+        "expertise": 0
     },
     {
         "id": 1220,
-        "french": "blanc"
+        "french": "blanc",
+        "expertise": 0
     },
     {
         "id": 1221,
-        "french": "nourrir"
+        "french": "nourrir",
+        "expertise": 0
     },
     {
         "id": 1222,
-        "french": "dangereux"
+        "french": "dangereux",
+        "expertise": 0
     },
     {
         "id": 1223,
-        "french": "poésie"
+        "french": "poésie",
+        "expertise": 0
     },
     {
         "id": 1224,
-        "french": "sommet"
+        "french": "sommet",
+        "expertise": 0
     },
     {
         "id": 1225,
-        "french": "remplacer"
+        "french": "remplacer",
+        "expertise": 0
     },
     {
         "id": 1226,
-        "french": "souhaiter"
+        "french": "souhaiter",
+        "expertise": 0
     },
     {
         "id": 1227,
-        "french": "avance"
+        "french": "avance",
+        "expertise": 0
     },
     {
         "id": 1228,
-        "french": "autorité"
+        "french": "autorité",
+        "expertise": 0
     },
     {
         "id": 1229,
-        "french": "épais"
+        "french": "épais",
+        "expertise": 0
     },
     {
         "id": 1230,
-        "french": "inquiétude"
+        "french": "inquiétude",
+        "expertise": 0
     },
     {
         "id": 1231,
-        "french": "choix"
+        "french": "choix",
+        "expertise": 0
     },
     {
         "id": 1232,
-        "french": "tombe"
+        "french": "tombe",
+        "expertise": 0
     },
     {
         "id": 1233,
-        "french": "marchand"
+        "french": "marchand",
+        "expertise": 0
     },
     {
         "id": 1234,
-        "french": "nombreux"
+        "french": "nombreux",
+        "expertise": 0
     },
     {
         "id": 1235,
-        "french": "muet"
+        "french": "muet",
+        "expertise": 0
     },
     {
         "id": 1236,
-        "french": "signer"
+        "french": "signer",
+        "expertise": 0
     },
     {
         "id": 1237,
-        "french": "absolument"
+        "french": "absolument",
+        "expertise": 0
     },
     {
         "id": 1238,
-        "french": "cercle"
+        "french": "cercle",
+        "expertise": 0
     },
     {
         "id": 1239,
-        "french": "interroger"
+        "french": "interroger",
+        "expertise": 0
     },
     {
         "id": 1240,
-        "french": "dominer"
+        "french": "dominer",
+        "expertise": 0
     },
     {
         "id": 1241,
-        "french": "défaut"
+        "french": "défaut",
+        "expertise": 0
     },
     {
         "id": 1242,
-        "french": "enfance"
+        "french": "enfance",
+        "expertise": 0
     },
     {
         "id": 1243,
-        "french": "faveur"
+        "french": "faveur",
+        "expertise": 0
     },
     {
         "id": 1244,
-        "french": "réel"
+        "french": "réel",
+        "expertise": 0
     },
     {
         "id": 1245,
-        "french": "commander"
+        "french": "commander",
+        "expertise": 0
     },
     {
         "id": 1246,
-        "french": "supposer"
+        "french": "supposer",
+        "expertise": 0
     },
     {
         "id": 1247,
-        "french": "dépasser"
+        "french": "dépasser",
+        "expertise": 0
     },
     {
         "id": 1248,
-        "french": "sourd"
+        "french": "sourd",
+        "expertise": 0
     },
     {
         "id": 1249,
-        "french": "cruel"
+        "french": "cruel",
+        "expertise": 0
     },
     {
         "id": 1250,
-        "french": "dimanche"
+        "french": "dimanche",
+        "expertise": 0
     },
     {
         "id": 1251,
-        "french": "erreur"
+        "french": "erreur",
+        "expertise": 0
     },
     {
         "id": 1252,
-        "french": "cerveau"
+        "french": "cerveau",
+        "expertise": 0
     },
     {
         "id": 1253,
-        "french": "accuser"
+        "french": "accuser",
+        "expertise": 0
     },
     {
         "id": 1254,
-        "french": "arrivée"
+        "french": "arrivée",
+        "expertise": 0
     },
     {
         "id": 1255,
-        "french": "rapidement"
+        "french": "rapidement",
+        "expertise": 0
     },
     {
         "id": 1256,
-        "french": "vol"
+        "french": "vol",
+        "expertise": 0
     },
     {
         "id": 1257,
-        "french": "habiller"
+        "french": "habiller",
+        "expertise": 0
     },
     {
         "id": 1258,
-        "french": "condamner"
+        "french": "condamner",
+        "expertise": 0
     },
     {
         "id": 1259,
-        "french": "lors"
+        "french": "lors",
+        "expertise": 0
     },
     {
         "id": 1260,
-        "french": "menacer"
+        "french": "menacer",
+        "expertise": 0
     },
     {
         "id": 1261,
-        "french": "seuil"
+        "french": "seuil",
+        "expertise": 0
     },
     {
         "id": 1262,
-        "french": "écraser"
+        "french": "écraser",
+        "expertise": 0
     },
     {
         "id": 1263,
-        "french": "perte"
+        "french": "perte",
+        "expertise": 0
     },
     {
         "id": 1264,
-        "french": "troisième"
+        "french": "troisième",
+        "expertise": 0
     },
     {
         "id": 1265,
-        "french": "chance"
+        "french": "chance",
+        "expertise": 0
     },
     {
         "id": 1266,
-        "french": "vieil"
+        "french": "vieil",
+        "expertise": 0
     },
     {
         "id": 1267,
-        "french": "même"
+        "french": "même",
+        "expertise": 0
     },
     {
         "id": 1268,
-        "french": "céder"
+        "french": "céder",
+        "expertise": 0
     },
     {
         "id": 1269,
-        "french": "douceur"
+        "french": "douceur",
+        "expertise": 0
     },
     {
         "id": 1270,
-        "french": "droite"
+        "french": "droite",
+        "expertise": 0
     },
     {
         "id": 1271,
-        "french": "vide"
+        "french": "vide",
+        "expertise": 0
     },
     {
         "id": 1272,
-        "french": "autrement"
+        "french": "autrement",
+        "expertise": 0
     },
     {
         "id": 1273,
-        "french": "drôle"
+        "french": "drôle",
+        "expertise": 0
     },
     {
         "id": 1274,
-        "french": "ruine"
+        "french": "ruine",
+        "expertise": 0
     },
     {
         "id": 1275,
-        "french": "écarter"
+        "french": "écarter",
+        "expertise": 0
     },
     {
         "id": 1276,
-        "french": "rang"
+        "french": "rang",
+        "expertise": 0
     },
     {
         "id": 1277,
-        "french": "réclamer"
+        "french": "réclamer",
+        "expertise": 0
     },
     {
         "id": 1278,
-        "french": "chiffre"
+        "french": "chiffre",
+        "expertise": 0
     },
     {
         "id": 1279,
-        "french": "voisin"
+        "french": "voisin",
+        "expertise": 0
     },
     {
         "id": 1280,
-        "french": "militaire"
+        "french": "militaire",
+        "expertise": 0
     },
     {
         "id": 1281,
-        "french": "roche"
+        "french": "roche",
+        "expertise": 0
     },
     {
         "id": 1282,
-        "french": "distance"
+        "french": "distance",
+        "expertise": 0
     },
     {
         "id": 1283,
-        "french": "apparence"
+        "french": "apparence",
+        "expertise": 0
     },
     {
         "id": 1284,
-        "french": "dessiner"
+        "french": "dessiner",
+        "expertise": 0
     },
     {
         "id": 1285,
-        "french": "conclure"
+        "french": "conclure",
+        "expertise": 0
     },
     {
         "id": 1286,
-        "french": "françois"
+        "french": "françois",
+        "expertise": 0
     },
     {
         "id": 1287,
-        "french": "lier"
+        "french": "lier",
+        "expertise": 0
     },
     {
         "id": 1288,
-        "french": "discussion"
+        "french": "discussion",
+        "expertise": 0
     },
     {
         "id": 1289,
-        "french": "admettre"
+        "french": "admettre",
+        "expertise": 0
     },
     {
         "id": 1290,
-        "french": "banc"
+        "french": "banc",
+        "expertise": 0
     },
     {
         "id": 1291,
-        "french": "terreur"
+        "french": "terreur",
+        "expertise": 0
     },
     {
         "id": 1292,
-        "french": "attaquer"
+        "french": "attaquer",
+        "expertise": 0
     },
     {
         "id": 1293,
-        "french": "vers"
+        "french": "vers",
+        "expertise": 0
     },
     {
         "id": 1294,
-        "french": "respecter"
+        "french": "respecter",
+        "expertise": 0
     },
     {
         "id": 1295,
-        "french": "rose"
+        "french": "rose",
+        "expertise": 0
     },
     {
         "id": 1296,
-        "french": "silencieux"
+        "french": "silencieux",
+        "expertise": 0
     },
     {
         "id": 1297,
-        "french": "anglais"
+        "french": "anglais",
+        "expertise": 0
     },
     {
         "id": 1298,
-        "french": "course"
+        "french": "course",
+        "expertise": 0
     },
     {
         "id": 1299,
-        "french": "portier"
+        "french": "portier",
+        "expertise": 0
     },
     {
         "id": 1300,
-        "french": "chat"
+        "french": "chat",
+        "expertise": 0
     },
     {
         "id": 1301,
-        "french": "pendre"
+        "french": "pendre",
+        "expertise": 0
     },
     {
         "id": 1302,
-        "french": "supporter"
+        "french": "supporter",
+        "expertise": 0
     },
     {
         "id": 1303,
-        "french": "tempête"
+        "french": "tempête",
+        "expertise": 0
     },
     {
         "id": 1304,
-        "french": "parfaitement"
+        "french": "parfaitement",
+        "expertise": 0
     },
     {
         "id": 1305,
-        "french": "paysage"
+        "french": "paysage",
+        "expertise": 0
     },
     {
         "id": 1306,
-        "french": "quart"
+        "french": "quart",
+        "expertise": 0
     },
     {
         "id": 1307,
-        "french": "figurer"
+        "french": "figurer",
+        "expertise": 0
     },
     {
         "id": 1308,
-        "french": "profiter"
+        "french": "profiter",
+        "expertise": 0
     },
     {
         "id": 1309,
-        "french": "accrocher"
+        "french": "accrocher",
+        "expertise": 0
     },
     {
         "id": 1310,
-        "french": "calmer"
+        "french": "calmer",
+        "expertise": 0
     },
     {
         "id": 1311,
-        "french": "satisfaire"
+        "french": "satisfaire",
+        "expertise": 0
     },
     {
         "id": 1312,
-        "french": "public"
+        "french": "public",
+        "expertise": 0
     },
     {
         "id": 1313,
-        "french": "race"
+        "french": "race",
+        "expertise": 0
     },
     {
         "id": 1314,
-        "french": "valoir"
+        "french": "valoir",
+        "expertise": 0
     },
     {
         "id": 1315,
-        "french": "barbe"
+        "french": "barbe",
+        "expertise": 0
     },
     {
         "id": 1316,
-        "french": "signifier"
+        "french": "signifier",
+        "expertise": 0
     },
     {
         "id": 1317,
-        "french": "couche"
+        "french": "couche",
+        "expertise": 0
     },
     {
         "id": 1318,
-        "french": "inquiéter"
+        "french": "inquiéter",
+        "expertise": 0
     },
     {
         "id": 1319,
-        "french": "colon"
+        "french": "colon",
+        "expertise": 0
     },
     {
         "id": 1320,
-        "french": "désormais"
+        "french": "désormais",
+        "expertise": 0
     },
     {
         "id": 1321,
-        "french": "fidèle"
+        "french": "fidèle",
+        "expertise": 0
     },
     {
         "id": 1322,
-        "french": "assister"
+        "french": "assister",
+        "expertise": 0
     },
     {
         "id": 1323,
-        "french": "rideau"
+        "french": "rideau",
+        "expertise": 0
     },
     {
         "id": 1324,
-        "french": "inviter"
+        "french": "inviter",
+        "expertise": 0
     },
     {
         "id": 1325,
-        "french": "déchirer"
+        "french": "déchirer",
+        "expertise": 0
     },
     {
         "id": 1326,
-        "french": "fatigue"
+        "french": "fatigue",
+        "expertise": 0
     },
     {
         "id": 1327,
-        "french": "risquer"
+        "french": "risquer",
+        "expertise": 0
     },
     {
         "id": 1328,
-        "french": "règle"
+        "french": "règle",
+        "expertise": 0
     },
     {
         "id": 1329,
-        "french": "gauche"
+        "french": "gauche",
+        "expertise": 0
     },
     {
         "id": 1330,
-        "french": "parcourir"
+        "french": "parcourir",
+        "expertise": 0
     },
     {
         "id": 1331,
-        "french": "présent"
+        "french": "présent",
+        "expertise": 0
     },
     {
         "id": 1332,
-        "french": "rejeter"
+        "french": "rejeter",
+        "expertise": 0
     },
     {
         "id": 1333,
-        "french": "naissance"
+        "french": "naissance",
+        "expertise": 0
     },
     {
         "id": 1334,
-        "french": "loup"
+        "french": "loup",
+        "expertise": 0
     },
     {
         "id": 1335,
-        "french": "renoncer"
+        "french": "renoncer",
+        "expertise": 0
     },
     {
         "id": 1336,
-        "french": "complètement"
+        "french": "complètement",
+        "expertise": 0
     },
     {
         "id": 1337,
-        "french": "extraordinaire"
+        "french": "extraordinaire",
+        "expertise": 0
     },
     {
         "id": 1338,
-        "french": "veiller"
+        "french": "veiller",
+        "expertise": 0
     },
     {
         "id": 1339,
-        "french": "transformer"
+        "french": "transformer",
+        "expertise": 0
     },
     {
         "id": 1340,
-        "french": "tracer"
+        "french": "tracer",
+        "expertise": 0
     },
     {
         "id": 1341,
-        "french": "chute"
+        "french": "chute",
+        "expertise": 0
     },
     {
         "id": 1342,
-        "french": "divers"
+        "french": "divers",
+        "expertise": 0
     },
     {
         "id": 1343,
-        "french": "résistance"
+        "french": "résistance",
+        "expertise": 0
     },
     {
         "id": 1344,
-        "french": "contenter"
+        "french": "contenter",
+        "expertise": 0
     },
     {
         "id": 1345,
-        "french": "chemise"
+        "french": "chemise",
+        "expertise": 0
     },
     {
         "id": 1346,
-        "french": "mince"
+        "french": "mince",
+        "expertise": 0
     },
     {
         "id": 1347,
-        "french": "naturellement"
+        "french": "naturellement",
+        "expertise": 0
     },
     {
         "id": 1348,
-        "french": "siège"
+        "french": "siège",
+        "expertise": 0
     },
     {
         "id": 1349,
-        "french": "as"
+        "french": "as",
+        "expertise": 0
     },
     {
         "id": 1350,
-        "french": "patron"
+        "french": "patron",
+        "expertise": 0
     },
     {
         "id": 1351,
-        "french": "calme"
+        "french": "calme",
+        "expertise": 0
     },
     {
         "id": 1352,
-        "french": "mériter"
+        "french": "mériter",
+        "expertise": 0
     },
     {
         "id": 1353,
-        "french": "printemps"
+        "french": "printemps",
+        "expertise": 0
     },
     {
         "id": 1354,
-        "french": "angoisse"
+        "french": "angoisse",
+        "expertise": 0
     },
     {
         "id": 1355,
-        "french": "précipiter"
+        "french": "précipiter",
+        "expertise": 0
     },
     {
         "id": 1356,
-        "french": "rompre"
+        "french": "rompre",
+        "expertise": 0
     },
     {
         "id": 1357,
-        "french": "habitant"
+        "french": "habitant",
+        "expertise": 0
     },
     {
         "id": 1358,
-        "french": "plein"
+        "french": "plein",
+        "expertise": 0
     },
     {
         "id": 1359,
-        "french": "caresser"
+        "french": "caresser",
+        "expertise": 0
     },
     {
         "id": 1360,
-        "french": "métier"
+        "french": "métier",
+        "expertise": 0
     },
     {
         "id": 1361,
-        "french": "étouffer"
+        "french": "étouffer",
+        "expertise": 0
     },
     {
         "id": 1362,
-        "french": "animer"
+        "french": "animer",
+        "expertise": 0
     },
     {
         "id": 1363,
-        "french": "note"
+        "french": "note",
+        "expertise": 0
     },
     {
         "id": 1364,
-        "french": "passé"
+        "french": "passé",
+        "expertise": 0
     },
     {
         "id": 1365,
-        "french": "fine"
+        "french": "fine",
+        "expertise": 0
     },
     {
         "id": 1366,
-        "french": "fixe"
+        "french": "fixe",
+        "expertise": 0
     },
     {
         "id": 1367,
-        "french": "casser"
+        "french": "casser",
+        "expertise": 0
     },
     {
         "id": 1368,
-        "french": "fusil"
+        "french": "fusil",
+        "expertise": 0
     },
     {
         "id": 1369,
-        "french": "rond"
+        "french": "rond",
+        "expertise": 0
     },
     {
         "id": 1370,
-        "french": "agent"
+        "french": "agent",
+        "expertise": 0
     },
     {
         "id": 1371,
-        "french": "fonder"
+        "french": "fonder",
+        "expertise": 0
     },
     {
         "id": 1372,
-        "french": "roman"
+        "french": "roman",
+        "expertise": 0
     },
     {
         "id": 1373,
-        "french": "franchir"
+        "french": "franchir",
+        "expertise": 0
     },
     {
         "id": 1374,
-        "french": "plante"
+        "french": "plante",
+        "expertise": 0
     },
     {
         "id": 1375,
-        "french": "abattre"
+        "french": "abattre",
+        "expertise": 0
     },
     {
         "id": 1376,
-        "french": "discuter"
+        "french": "discuter",
+        "expertise": 0
     },
     {
         "id": 1377,
-        "french": "fatiguer"
+        "french": "fatiguer",
+        "expertise": 0
     },
     {
         "id": 1378,
-        "french": "humide"
+        "french": "humide",
+        "expertise": 0
     },
     {
         "id": 1379,
-        "french": "réflexion"
+        "french": "réflexion",
+        "expertise": 0
     },
     {
         "id": 1380,
-        "french": "consentir"
+        "french": "consentir",
+        "expertise": 0
     },
     {
         "id": 1381,
-        "french": "accent"
+        "french": "accent",
+        "expertise": 0
     },
     {
         "id": 1382,
-        "french": "curieux"
+        "french": "curieux",
+        "expertise": 0
     },
     {
         "id": 1383,
-        "french": "repas"
+        "french": "repas",
+        "expertise": 0
     },
     {
         "id": 1384,
-        "french": "étendue"
+        "french": "étendue",
+        "expertise": 0
     },
     {
         "id": 1385,
-        "french": "regretter"
+        "french": "regretter",
+        "expertise": 0
     },
     {
         "id": 1386,
-        "french": "joindre"
+        "french": "joindre",
+        "expertise": 0
     },
     {
         "id": 1387,
-        "french": "profondément"
+        "french": "profondément",
+        "expertise": 0
     },
     {
         "id": 1388,
-        "french": "secours"
+        "french": "secours",
+        "expertise": 0
     },
     {
         "id": 1389,
-        "french": "commencement"
+        "french": "commencement",
+        "expertise": 0
     },
     {
         "id": 1390,
-        "french": "corde"
+        "french": "corde",
+        "expertise": 0
     },
     {
         "id": 1391,
-        "french": "secrétaire"
+        "french": "secrétaire",
+        "expertise": 0
     },
     {
         "id": 1392,
-        "french": "vaincre"
+        "french": "vaincre",
+        "expertise": 0
     },
     {
         "id": 1393,
-        "french": "saison"
+        "french": "saison",
+        "expertise": 0
     },
     {
         "id": 1394,
-        "french": "précieux"
+        "french": "précieux",
+        "expertise": 0
     },
     {
         "id": 1395,
-        "french": "précis"
+        "french": "précis",
+        "expertise": 0
     },
     {
         "id": 1396,
-        "french": "consulter"
+        "french": "consulter",
+        "expertise": 0
     },
     {
         "id": 1397,
-        "french": "haïr"
+        "french": "haïr",
+        "expertise": 0
     },
     {
         "id": 1398,
-        "french": "repousser"
+        "french": "repousser",
+        "expertise": 0
     },
     {
         "id": 1399,
-        "french": "paupière"
+        "french": "paupière",
+        "expertise": 0
     },
     {
         "id": 1400,
-        "french": "certainement"
+        "french": "certainement",
+        "expertise": 0
     },
     {
         "id": 1401,
-        "french": "tapis"
+        "french": "tapis",
+        "expertise": 0
     },
     {
         "id": 1402,
-        "french": "noire"
+        "french": "noire",
+        "expertise": 0
     },
     {
         "id": 1403,
-        "french": "chasse"
+        "french": "chasse",
+        "expertise": 0
     },
     {
         "id": 1404,
-        "french": "exécuter"
+        "french": "exécuter",
+        "expertise": 0
     },
     {
         "id": 1405,
-        "french": "nerveux"
+        "french": "nerveux",
+        "expertise": 0
     },
     {
         "id": 1406,
-        "french": "nul"
+        "french": "nul",
+        "expertise": 0
     },
     {
         "id": 1407,
-        "french": "commun"
+        "french": "commun",
+        "expertise": 0
     },
     {
         "id": 1408,
-        "french": "exposer"
+        "french": "exposer",
+        "expertise": 0
     },
     {
         "id": 1409,
-        "french": "clef"
+        "french": "clef",
+        "expertise": 0
     },
     {
         "id": 1410,
-        "french": "claire"
+        "french": "claire",
+        "expertise": 0
     },
     {
         "id": 1411,
-        "french": "voyager"
+        "french": "voyager",
+        "expertise": 0
     },
     {
         "id": 1412,
-        "french": "haute"
+        "french": "haute",
+        "expertise": 0
     },
     {
         "id": 1413,
-        "french": "renverser"
+        "french": "renverser",
+        "expertise": 0
     },
     {
         "id": 1414,
-        "french": "sueur"
+        "french": "sueur",
+        "expertise": 0
     },
     {
         "id": 1415,
-        "french": "âgé"
+        "french": "âgé",
+        "expertise": 0
     },
     {
         "id": 1416,
-        "french": "ferme"
+        "french": "ferme",
+        "expertise": 0
     },
     {
         "id": 1417,
-        "french": "rassurer"
+        "french": "rassurer",
+        "expertise": 0
     },
     {
         "id": 1418,
-        "french": "retomber"
+        "french": "retomber",
+        "expertise": 0
     },
     {
         "id": 1419,
-        "french": "décrire"
+        "french": "décrire",
+        "expertise": 0
     },
     {
         "id": 1420,
-        "french": "mentir"
+        "french": "mentir",
+        "expertise": 0
     },
     {
         "id": 1421,
-        "french": "instinct"
+        "french": "instinct",
+        "expertise": 0
     },
     {
         "id": 1422,
-        "french": "armer"
+        "french": "armer",
+        "expertise": 0
     },
     {
         "id": 1423,
-        "french": "paquet"
+        "french": "paquet",
+        "expertise": 0
     },
     {
         "id": 1424,
-        "french": "drame"
+        "french": "drame",
+        "expertise": 0
     },
     {
         "id": 1425,
-        "french": "absolu"
+        "french": "absolu",
+        "expertise": 0
     },
     {
         "id": 1426,
-        "french": "savoir"
+        "french": "savoir",
+        "expertise": 0
     },
     {
         "id": 1427,
-        "french": "mine"
+        "french": "mine",
+        "expertise": 0
     },
     {
         "id": 1428,
-        "french": "vision"
+        "french": "vision",
+        "expertise": 0
     },
     {
         "id": 1429,
-        "french": "étaler"
+        "french": "étaler",
+        "expertise": 0
     },
     {
         "id": 1430,
-        "french": "sentier"
+        "french": "sentier",
+        "expertise": 0
     },
     {
         "id": 1431,
-        "french": "demain"
+        "french": "demain",
+        "expertise": 0
     },
     {
         "id": 1432,
-        "french": "beau"
+        "french": "beau",
+        "expertise": 0
     },
     {
         "id": 1433,
-        "french": "blond"
+        "french": "blond",
+        "expertise": 0
     },
     {
         "id": 1434,
-        "french": "essuyer"
+        "french": "essuyer",
+        "expertise": 0
     },
     {
         "id": 1435,
-        "french": "planche"
+        "french": "planche",
+        "expertise": 0
     },
     {
         "id": 1436,
-        "french": "précéder"
+        "french": "précéder",
+        "expertise": 0
     },
     {
         "id": 1437,
-        "french": "dehors"
+        "french": "dehors",
+        "expertise": 0
     },
     {
         "id": 1438,
-        "french": "salut"
+        "french": "salut",
+        "expertise": 0
     },
     {
         "id": 1439,
-        "french": "tâche"
+        "french": "tâche",
+        "expertise": 0
     },
     {
         "id": 1440,
-        "french": "désigner"
+        "french": "désigner",
+        "expertise": 0
     },
     {
         "id": 1441,
-        "french": "fin"
+        "french": "fin",
+        "expertise": 0
     },
     {
         "id": 1442,
-        "french": "abri"
+        "french": "abri",
+        "expertise": 0
     },
     {
         "id": 1443,
-        "french": "détacher"
+        "french": "détacher",
+        "expertise": 0
     },
     {
         "id": 1444,
-        "french": "recueillir"
+        "french": "recueillir",
+        "expertise": 0
     },
     {
         "id": 1445,
-        "french": "rencontre"
+        "french": "rencontre",
+        "expertise": 0
     },
     {
         "id": 1446,
-        "french": "croiser"
+        "french": "croiser",
+        "expertise": 0
     },
     {
         "id": 1447,
-        "french": "entretenir"
+        "french": "entretenir",
+        "expertise": 0
     },
     {
         "id": 1448,
-        "french": "rouge"
+        "french": "rouge",
+        "expertise": 0
     },
     {
         "id": 1449,
-        "french": "professeur"
+        "french": "professeur",
+        "expertise": 0
     },
     {
         "id": 1450,
-        "french": "surveiller"
+        "french": "surveiller",
+        "expertise": 0
     },
     {
         "id": 1451,
-        "french": "visible"
+        "french": "visible",
+        "expertise": 0
     },
     {
         "id": 1452,
-        "french": "perdu"
+        "french": "perdu",
+        "expertise": 0
     },
     {
         "id": 1453,
-        "french": "réserver"
+        "french": "réserver",
+        "expertise": 0
     },
     {
         "id": 1454,
-        "french": "bas"
+        "french": "bas",
+        "expertise": 0
     },
     {
         "id": 1455,
-        "french": "lien"
+        "french": "lien",
+        "expertise": 0
     },
     {
         "id": 1456,
-        "french": "queue"
+        "french": "queue",
+        "expertise": 0
     },
     {
         "id": 1457,
-        "french": "bande"
+        "french": "bande",
+        "expertise": 0
     },
     {
         "id": 1458,
-        "french": "confondre"
+        "french": "confondre",
+        "expertise": 0
     },
     {
         "id": 1459,
-        "french": "grain"
+        "french": "grain",
+        "expertise": 0
     },
     {
         "id": 1460,
-        "french": "mensonge"
+        "french": "mensonge",
+        "expertise": 0
     },
     {
         "id": 1461,
-        "french": "dégager"
+        "french": "dégager",
+        "expertise": 0
     },
     {
         "id": 1462,
-        "french": "probablement"
+        "french": "probablement",
+        "expertise": 0
     },
     {
         "id": 1463,
-        "french": "illusion"
+        "french": "illusion",
+        "expertise": 0
     },
     {
         "id": 1464,
-        "french": "incapable"
+        "french": "incapable",
+        "expertise": 0
     },
     {
         "id": 1465,
-        "french": "parer"
+        "french": "parer",
+        "expertise": 0
     },
     {
         "id": 1466,
-        "french": "épreuve"
+        "french": "épreuve",
+        "expertise": 0
     },
     {
         "id": 1467,
-        "french": "immédiatement"
+        "french": "immédiatement",
+        "expertise": 0
     },
     {
         "id": 1468,
-        "french": "attente"
+        "french": "attente",
+        "expertise": 0
     },
     {
         "id": 1469,
-        "french": "visiter"
+        "french": "visiter",
+        "expertise": 0
     },
     {
         "id": 1470,
-        "french": "instrument"
+        "french": "instrument",
+        "expertise": 0
     },
     {
         "id": 1471,
-        "french": "évidemment"
+        "french": "évidemment",
+        "expertise": 0
     },
     {
         "id": 1472,
-        "french": "auparavant"
+        "french": "auparavant",
+        "expertise": 0
     },
     {
         "id": 1473,
-        "french": "détourner"
+        "french": "détourner",
+        "expertise": 0
     },
     {
         "id": 1474,
-        "french": "explication"
+        "french": "explication",
+        "expertise": 0
     },
     {
         "id": 1475,
-        "french": "régulier"
+        "french": "régulier",
+        "expertise": 0
     },
     {
         "id": 1476,
-        "french": "reproche"
+        "french": "reproche",
+        "expertise": 0
     },
     {
         "id": 1477,
-        "french": "souci"
+        "french": "souci",
+        "expertise": 0
     },
     {
         "id": 1478,
-        "french": "plier"
+        "french": "plier",
+        "expertise": 0
     },
     {
         "id": 1479,
-        "french": "extrême"
+        "french": "extrême",
+        "expertise": 0
     },
     {
         "id": 1480,
-        "french": "accueillir"
+        "french": "accueillir",
+        "expertise": 0
     },
     {
         "id": 1481,
-        "french": "juif"
+        "french": "juif",
+        "expertise": 0
     },
     {
         "id": 1482,
-        "french": "leçon"
+        "french": "leçon",
+        "expertise": 0
     },
     {
         "id": 1483,
-        "french": "redevenir"
+        "french": "redevenir",
+        "expertise": 0
     },
     {
         "id": 1484,
-        "french": "approuver"
+        "french": "approuver",
+        "expertise": 0
     },
     {
         "id": 1485,
-        "french": "parfait"
+        "french": "parfait",
+        "expertise": 0
     },
     {
         "id": 1486,
-        "french": "emparer"
+        "french": "emparer",
+        "expertise": 0
     },
     {
         "id": 1487,
-        "french": "aborder"
+        "french": "aborder",
+        "expertise": 0
     },
     {
         "id": 1488,
-        "french": "heurter"
+        "french": "heurter",
+        "expertise": 0
     },
     {
         "id": 1489,
-        "french": "tel"
+        "french": "tel",
+        "expertise": 0
     },
     {
         "id": 1490,
-        "french": "noyer"
+        "french": "noyer",
+        "expertise": 0
     },
     {
         "id": 1491,
-        "french": "semer"
+        "french": "semer",
+        "expertise": 0
     },
     {
         "id": 1492,
-        "french": "ferme"
+        "french": "ferme",
+        "expertise": 0
     },
     {
         "id": 1493,
-        "french": "manche"
+        "french": "manche",
+        "expertise": 0
     },
     {
         "id": 1494,
-        "french": "rage"
+        "french": "rage",
+        "expertise": 0
     },
     {
         "id": 1495,
-        "french": "gré"
+        "french": "gré",
+        "expertise": 0
     },
     {
         "id": 1496,
-        "french": "guider"
+        "french": "guider",
+        "expertise": 0
     },
     {
         "id": 1497,
-        "french": "piquer"
+        "french": "piquer",
+        "expertise": 0
     },
     {
         "id": 1498,
-        "french": "meilleur"
+        "french": "meilleur",
+        "expertise": 0
     }
 ]

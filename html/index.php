@@ -1,6 +1,6 @@
 <?php 
 	require('../helpers/functions.php');
-	increase();
+	update();
 	$pull=pull();
 	render("header",$pull);
 	render("footer",$pull);
