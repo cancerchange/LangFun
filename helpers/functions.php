@@ -22,7 +22,7 @@
 		$pool = json_decode(openPool('current'),true);
 		$choice = rand(0,1);
 		return $pool[$choice];
-
+		
 	}
 	
 	function getIds($pool){
