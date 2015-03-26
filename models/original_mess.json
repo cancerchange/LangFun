@@ -907,7 +907,7 @@
     {
         "id": 181,
         "french": "pendant",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 182,
@@ -1417,7 +1417,7 @@
     {
         "id": 283,
         "french": "pensée",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 284,
@@ -1607,7 +1607,7 @@
     {
         "id": 321,
         "french": "silence",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 322,
@@ -1812,7 +1812,7 @@
     {
         "id": 362,
         "french": "haut",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 363,
@@ -2317,7 +2317,7 @@
     {
         "id": 463,
         "french": "politique",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 464,
@@ -2452,7 +2452,7 @@
     {
         "id": 490,
         "french": "montagne",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 491,
@@ -2472,7 +2472,7 @@
     {
         "id": 494,
         "french": "trente",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 495,
@@ -2647,7 +2647,7 @@
     {
         "id": 529,
         "french": "prix",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 530,
@@ -3032,7 +3032,7 @@
     {
         "id": 606,
         "french": "approcher",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 607,
@@ -3732,7 +3732,7 @@
     {
         "id": 746,
         "french": "juge",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 747,
@@ -4852,7 +4852,7 @@
     {
         "id": 970,
         "french": "droite",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 971,
@@ -5847,7 +5847,7 @@
     {
         "id": 1169,
         "french": "double",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 1170,
@@ -6052,7 +6052,7 @@
     {
         "id": 1210,
         "french": "ramasser",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 1211,
@@ -6077,7 +6077,7 @@
     {
         "id": 1215,
         "french": "presser",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 1216,
@@ -6372,7 +6372,7 @@
     {
         "id": 1274,
         "french": "ruine",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 1275,
@@ -6907,7 +6907,7 @@
     {
         "id": 1381,
         "french": "accent",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 1382,
@@ -7022,7 +7022,7 @@
     {
         "id": 1404,
         "french": "exécuter",
-        "expertise": 0
+        "expertise": 1
     },
     {
         "id": 1405,

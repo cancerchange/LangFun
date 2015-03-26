@@ -71,7 +71,12 @@
 	}
 	
 	function getStatus(){
-		
+		$pool = json_decode(openPool('original_mess'),true);
+		$count=0;
+		foreach ($pool as $key => $value) {
+			$count+=$pool[$key]['expertise'];
+		}
+		return $count;
 	}
 	
 
