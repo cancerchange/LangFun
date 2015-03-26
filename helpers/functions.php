@@ -2,8 +2,17 @@
 	function checkAnswer(){
 		# checks answer
 	}
-	function increase(){
+	function increase($id){
 		
+		$json_ori = json_decode(openPool('working'),true);
+		foreach ($json_ori as $json) {
+			if ($json['id']==$id) {
+				$last=$json['expertise'];
+				$json['expertise']=$last+1;
+			}
+		}
+		$poor = fopen('../models/working.json','w');
+		fwrite($poor, json_encode($json_ori,JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
 	}
 	function openPool($pool){
 		$json = "";
