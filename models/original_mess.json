@@ -77,7 +77,7 @@
     },
     {
         "id": 19,
-        "french": "au"
+        "french": "au",
     },
     {
         "id": 20,
@@ -1082,6 +1082,86 @@
     {
         "id": 270,
         "french": "permettre"
+    },
+    {
+        "id": 271,
+        "french": "pauvre"
+    },
+    {
+        "id": 272,
+        "french": "asseoir"
+    },
+    {
+        "id": 273,
+        "french": "point"
+    },
+    {
+        "id": 274,
+        "french": "plein"
+    },
+    {
+        "id": 275,
+        "french": "personne"
+    },
+    {
+        "id": 276,
+        "french": "VRAI"
+    },
+    {
+        "id": 277,
+        "french": "peuple"
+    },
+    {
+        "id": 278,
+        "french": "fait"
+    },
+    {
+        "id": 279,
+        "french": "parole"
+    },
+    {
+        "id": 280,
+        "french": "guerre"
+    },
+    {
+        "id": 281,
+        "french": "toute"
+    },
+    {
+        "id": 282,
+        "french": "écouter"
+    },
+    {
+        "id": 283,
+        "french": "pensée"
+    },
+    {
+        "id": 284,
+        "french": "affaire"
+    },
+    {
+        "id": 285,
+        "french": "quoi"
+    },
+    {
+        "id": 286,
+        "french": "matin"
+    },
+    {
+        "id": 287,
+        "french": "pierre"
+    },
+    {
+        "id": 288,
+        "french": "monter"
+    },
+    {
+        "id": 289,
+        "french": "bas"
+    },
+    {
+        "id": 290,
+        "french": "vent"
     },
     {
         "id": 291,

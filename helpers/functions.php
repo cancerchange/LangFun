@@ -5,7 +5,7 @@
 	function increase(){
 		
 			if (isset($_GET['word'])){
-				$json_ori = json_decode(openPool('working'),true);
+				$json_ori = json_decode(openPool('original_mess'),true);
 				$json_new = [];
 				
 				foreach ($json_ori as $key => $value) {
@@ -22,7 +22,7 @@
 				
 				}
 				
-				$poor = fopen('../models/working.json','w');
+				$poor = fopen('../models/original_mess.json','w');
 				fwrite($poor, json_encode($json_new,JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
 				header('location: index.php');
 			}
@@ -46,8 +46,8 @@
 		return $json;
 	}
 	function pull(){
-		$pool = json_decode(openPool('current'),true);
-		$choice = rand(0,20);
+		$pool = json_decode(openPool('original_mess'),true);
+		$choice = rand(0,19);
 		return $pool[$choice];
 		
 	}
