@@ -1,18 +1,17 @@
-{
-	"1":{
-		"french":"abondonner",
-		"arabic":"تخلي"
+[
+	{
+		"id":1,
+		"french":"abondonner"
 	},
-	"2":{
-		"french":"abat-jour",
-		"arabic":"واقي شمسي"
+	{
+		"id":2,
+		"french":"abat-jour"
 	},
-	"3":{
-		"french":"abattre",
-		"arabic":"أسقط"
+	{	"id":3,
+		"french":"abattre"
 	},
-	"4":{
-		"french":"abeille",
-		"arabic":"نحلة"
+	{
+		"id":4,
+		"french":"abeille"
 	}
-}
+]

@@ -2,13 +2,11 @@
     {
         "id": 1,
         "french": "abondonner",
-        "arabic": "تخلي",
         "expertise": 1
     },
     {
         "id": 3,
         "french": "abattre",
-        "arabic": "أسقط",
         "expertise": 1
     }
 ]

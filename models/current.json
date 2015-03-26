@@ -1,12 +1,10 @@
 [
 	{
 		"id":1,
-		"french":"abondonner",
-		"arabic":"تخلي"
+		"french":"abondonner"
 	},
 	{
 		"id":3,
-		"french":"abattre",
-		"arabic":"أسقط"
+		"french":"abattre"
 	}
 ]
