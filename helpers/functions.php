@@ -3,33 +3,34 @@
 		# checks answer
 	}
 	function increase(){
-		# if the answer was right then
+		
+	}
+	function openPool($pool){
+		$json = "";
+		
+		$json_file = fopen("../models/{$pool}.json",'r');
+		
+		while ($parse = fgets($json_file)) {
+			$json=$json.$parse;
+		}
+		
+		fclose($json_file);
+
+		return $json;
 	}
 	function pull(){
-		# gets an element out of the current directory and puts it as an argument to render(footer)
-		$current = simplexml_load_file('../models/current.xml');
-		$get_random_word= new SimpleXMLIterator($current->asXML());
-		
-		$count=$current->count();
-		$rand=rand(0,$count-1);
-		
-		$get = $get_random_word->xpath("/words/word");
-		$choose=$get[$rand]->attributes();
-		
-		$french=$current->xpath("/words/word[@id={$choose}]/french");
-		$arabic=$current->xpath("/words/word[@id={$choose}]/arabic");
-		
-		$pull=array('french'=>$french['0'],'arabic'=>$arabic['0']);
-		
-		return $pull;
-	}
-	function getId($word,$path){
-		$xml = simplexml_load_file("../models/{$path}.xml");
-		$get = $xml->xpath('/words/word');
-	}
-	function update($id){
+		$pool = json_decode(openPool('current'),true);
+		$choice = rand(0,1);
+		return $pool[$choice];
 
 	}
+	
+	function getIds($pool){
+		$stream = openPool($pool);
+		
+		$ids['0']=json_decode($strem,true);
+	}
+	
 
 	function render($template,$data = array()){
 		$path="../views/".$template.".php";
