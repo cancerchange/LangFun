@@ -9,6 +9,6 @@
 	<header></header>
 	<div class="buttons">
 		<a href="index.php?move=right&word=<?php echo $id ?>" class="wright">Right</a>
-		<a href="index.php?move=wrong" class="wrong">Wrong</a>
+		<a href="index.php" class="wrong">Wrong</a>
 	</div>
 	<div class="snaps">

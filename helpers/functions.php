@@ -2,17 +2,35 @@
 	function checkAnswer(){
 		# checks answer
 	}
-	function increase($id){
+	function increase(){
 		
-		$json_ori = json_decode(openPool('working'),true);
-		foreach ($json_ori as $json) {
-			if ($json['id']==$id) {
-				$last=$json['expertise'];
-				$json['expertise']=$last+1;
+			if (isset($_GET['word'])){
+				$json_ori = json_decode(openPool('working'),true);
+				$json_new = [];
+				
+				foreach ($json_ori as $key => $value) {
+					
+					if ($json_ori[$key]['id']==$_GET['word']) {
+						
+						$json_new[$key]=$json_ori[$key];
+						
+						$json_new[$key]['expertise']=$json_ori[$key]['expertise']+1;
+					
+					}
+
+					else { $json_new[$key] = $value; }
+				
+				}
+				
+				$poor = fopen('../models/working.json','w');
+				fwrite($poor, json_encode($json_new,JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+				header('location: index.php');
 			}
-		}
-		$poor = fopen('../models/working.json','w');
-		fwrite($poor, json_encode($json_ori,JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+			
+		
+		
+
+		
 	}
 	function openPool($pool){
 		$json = "";
