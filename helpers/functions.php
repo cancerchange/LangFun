@@ -47,7 +47,7 @@
 	}
 	function pull(){
 		$pool = json_decode(openPool('current'),true);
-		$choice = rand(0,1);
+		$choice = rand(0,20);
 		return $pool[$choice];
 		
 	}
@@ -78,22 +78,8 @@
 		fwrite($poor, json_encode($json,JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
 		fclose($poor);
 	}
-	/*
-	[
-	{
-		"id":1,
-		"french":"abondonner"
-	},
-	{
-		"id":2,
-		"french":"abat-jour"
-	},
-	{	"id":3,
-		"french":"abattre"
-	},
-	{
-		"id":4,
-		"french":"abeille"
+	function initializeCurrent(){
+		
 	}
-]**/
+
  ?>
