@@ -64,7 +64,36 @@
 		extract($data);
 		require($path);
 	}
-	function ititialize(){
-
+	function initializeDic(){
+		$handler = fopen('../models/dictionnary','r');
+		$i=0;
+		$json= [];
+		while ($word = fgets($handler)) {
+			$json[$i]['id']=$i;
+			$json[$i]['french']=$word;
+			$i++;
+		}
+		fclose($handler);
+		$poor=fopen('../models/original.json', 'w');
+		fwrite($poor, json_encode($json,JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+		fclose($poor);
 	}
+	/*
+	[
+	{
+		"id":1,
+		"french":"abondonner"
+	},
+	{
+		"id":2,
+		"french":"abat-jour"
+	},
+	{	"id":3,
+		"french":"abattre"
+	},
+	{
+		"id":4,
+		"french":"abeille"
+	}
+]**/
  ?>
