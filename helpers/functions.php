@@ -66,7 +66,8 @@
 		foreach ($pool as $key => $value) {
 			$count+=$pool[$key]['expertise'];
 		}
-		return $count;
+		$data['status'] = $count.'/7495';
+		return $data;
 	}
 	function render($template,$data = array()){
 		$path="../views/".$template.".php";
