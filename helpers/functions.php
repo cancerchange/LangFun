@@ -1,7 +1,4 @@
 <?php
-	function checkAnswer(){
-		# checks answer
-	}
 	function update(){
 			$json_verifie = json_decode(openPool('original_mess'),true);
 			$json = [];
@@ -38,11 +35,6 @@
 				fwrite($poor, json_encode($json_new,JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
 				header('location: index.php');
 			}
-			
-		
-		
-
-		
 	}
 	function openPool($pool){
 		$json = "";
@@ -67,9 +59,7 @@
 		fclose($count);
 		$choice = rand(0,($i-2)/5-1);
 		return $pool[$choice];
-		
 	}
-	
 	function getStatus(){
 		$pool = json_decode(openPool('original_mess'),true);
 		$count=0;
@@ -78,8 +68,6 @@
 		}
 		return $count;
 	}
-	
-
 	function render($template,$data = array()){
 		$path="../views/".$template.".php";
 		extract($data);
@@ -100,7 +88,6 @@
 		fclose($poor);
 	}
 	function initializeCurrent(){
-		
 	}
 
  ?>
