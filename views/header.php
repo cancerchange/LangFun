@@ -12,3 +12,5 @@
 		<a href="index.php" class="wrong">Wrong</a>
 	</div>
 	<div class="snaps">
+		<p class="french"><?php echo $french; ?></p>
+	</div>
